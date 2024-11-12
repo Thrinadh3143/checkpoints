@@ -1,0 +1,3361 @@
+mask_id,segmentation,area,bbox,predicted_iou,point_coords,stability_score,crop_box
+1,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",38428,"[0.0, 509.0, 346.0, 134.0]",0.9912949204444885,"[[324.0703125, 551.03125]]",0.9742093086242676,"[0.0, 0.0, 1257.0, 916.0]"
+2,"[[ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",13398,"[0.0, 0.0, 362.0, 54.0]",0.9906258583068848,"[[9.8203125, 7.15625]]",0.9842187166213989,"[0.0, 0.0, 1257.0, 916.0]"
+3,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",38454,"[0.0, 510.0, 344.0, 236.0]",0.9892144799232483,"[[9.8203125, 522.40625]]",0.9743609428405762,"[0.0, 0.0, 1257.0, 916.0]"
+4,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",38327,"[0.0, 210.0, 354.0, 136.0]",0.9889604449272156,"[[186.5859375, 307.71875]]",0.9832850098609924,"[0.0, 0.0, 1257.0, 916.0]"
+5,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",38461,"[0.0, 212.0, 345.0, 431.0]",0.9863848090171814,"[[324.0703125, 636.90625]]",0.9723418354988098,"[0.0, 0.0, 1257.0, 916.0]"
+6,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",27228,"[819.0, 288.0, 403.0, 123.0]",0.9815880060195923,"[[1011.4921875, 393.59375]]",0.9515597224235535,"[0.0, 0.0, 1257.0, 916.0]"
+7,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",70954,"[431.0, 251.0, 317.0, 474.0]",0.9813473224639893,"[[716.8828125, 307.71875]]",0.9832944273948669,"[0.0, 0.0, 1257.0, 916.0]"
+8,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",45451,"[419.0, 542.0, 320.0, 202.0]",0.9813366532325745,"[[441.9140625, 565.34375]]",0.9759478569030762,"[0.0, 0.0, 1257.0, 916.0]"
+9,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",70902,"[431.0, 252.0, 317.0, 250.0]",0.980976402759552,"[[716.8828125, 322.03125]]",0.9843684434890747,"[0.0, 0.0, 1257.0, 916.0]"
+10,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",35424,"[0.0, 48.0, 381.0, 134.0]",0.979428231716156,"[[363.3515625, 93.03125]]",0.9509447813034058,"[0.0, 0.0, 1257.0, 916.0]"
+11,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",8361,"[0.0, 655.0, 63.0, 139.0]",0.9790573120117188,"[[49.1015625, 780.03125]]",0.9829181432723999,"[0.0, 0.0, 1257.0, 916.0]"
+12,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",36844,"[0.0, 347.0, 370.0, 127.0]",0.9789794683456421,"[[304.4296875, 465.15625]]",0.9805908799171448,"[0.0, 0.0, 1257.0, 916.0]"
+13,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",63995,"[440.0, 0.0, 316.0, 220.0]",0.9783523082733154,"[[481.1953125, 7.15625]]",0.9862962961196899,"[0.0, 0.0, 1257.0, 916.0]"
+14,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",36964,"[0.0, 348.0, 370.0, 183.0]",0.9755502343177795,"[[363.3515625, 393.59375]]",0.9770028591156006,"[0.0, 0.0, 1257.0, 916.0]"
+15,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",35964,"[0.0, 46.0, 661.0, 145.0]",0.9754734039306641,"[[9.8203125, 64.40625]]",0.9609140753746033,"[0.0, 0.0, 1257.0, 916.0]"
+16,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",28209,"[62.0, 657.0, 296.0, 162.0]",0.9747859239578247,"[[245.5078125, 708.46875]]",0.9666144847869873,"[0.0, 0.0, 1257.0, 916.0]"
+17,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2962,"[0.0, 90.0, 31.0, 128.0]",0.9709484577178955,"[[9.8203125, 93.03125]]",0.9772878885269165,"[0.0, 0.0, 1257.0, 916.0]"
+18,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",64114,"[434.0, 0.0, 322.0, 463.0]",0.9697666764259338,"[[716.8828125, 7.15625]]",0.9848459362983704,"[0.0, 0.0, 1257.0, 916.0]"
+19,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",28138,"[62.0, 657.0, 296.0, 113.0]",0.9688758850097656,"[[147.3046875, 751.40625]]",0.9604586362838745,"[0.0, 0.0, 1257.0, 916.0]"
+20,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",26383,"[801.0, 417.0, 298.0, 113.0]",0.9681587815284729,"[[834.7265625, 479.46875]]",0.9693459272384644,"[0.0, 0.0, 1257.0, 916.0]"
+21,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",26717,"[801.0, 417.0, 299.0, 164.0]",0.9665769338607788,"[[1070.4140625, 479.46875]]",0.959640622138977,"[0.0, 0.0, 1257.0, 916.0]"
+22,"[[ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",14226,"[0.0, 0.0, 362.0, 216.0]",0.9661610126495361,"[[186.5859375, 7.15625]]",0.8393258452415466,"[0.0, 0.0, 1257.0, 916.0]"
+23,"[[ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",13606,"[0.0, 0.0, 362.0, 123.0]",0.9647589325904846,"[[245.5078125, 35.78125]]",0.9666954874992371,"[0.0, 0.0, 1257.0, 916.0]"
+24,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",36771,"[0.0, 347.0, 700.0, 130.0]",0.9623059630393982,"[[9.8203125, 436.53125]]",0.976669192314148,"[0.0, 0.0, 1257.0, 916.0]"
+25,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",28347,"[62.0, 657.0, 421.0, 164.0]",0.9613325595855713,"[[284.7890625, 751.40625]]",0.9564411640167236,"[0.0, 0.0, 1257.0, 916.0]"
+26,"[[ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",14110,"[0.0, 0.0, 362.0, 80.0]",0.9599549770355225,"[[166.9453125, 35.78125]]",0.8400686979293823,"[0.0, 0.0, 1257.0, 916.0]"
+27,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",16036,"[0.0, 759.0, 359.0, 104.0]",0.958617627620697,"[[108.0234375, 780.03125]]",0.9535790681838989,"[0.0, 0.0, 1257.0, 916.0]"
+28,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",15998,"[0.0, 759.0, 359.0, 72.0]",0.9563931226730347,"[[108.0234375, 794.34375]]",0.9551873803138733,"[0.0, 0.0, 1257.0, 916.0]"
+29,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10779,"[0.0, 18.0, 383.0, 68.0]",0.9537904262542725,"[[29.4609375, 35.78125]]",0.9502123594284058,"[0.0, 0.0, 1257.0, 916.0]"
+30,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10584,"[0.0, 320.0, 373.0, 57.0]",0.9525383710861206,"[[108.0234375, 350.65625]]",0.9648927450180054,"[0.0, 0.0, 1257.0, 916.0]"
+31,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3617,"[740.0, 561.0, 72.0, 53.0]",0.9518728852272034,"[[756.1640625, 593.96875]]",0.9680502414703369,"[0.0, 0.0, 1257.0, 916.0]"
+32,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",28509,"[51.0, 657.0, 308.0, 225.0]",0.9493926167488098,"[[265.1484375, 737.09375]]",0.9274725317955017,"[0.0, 0.0, 1257.0, 916.0]"
+33,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",25516,"[819.0, 288.0, 282.0, 122.0]",0.9463372826576233,"[[913.2890625, 393.59375]]",0.9426894187927246,"[0.0, 0.0, 1257.0, 916.0]"
+34,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5109,"[156.0, 808.0, 111.0, 64.0]",0.9463045001029968,"[[225.8671875, 822.96875]]",0.9423587322235107,"[0.0, 0.0, 1257.0, 916.0]"
+35,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",9889,"[0.0, 625.0, 361.0, 46.0]",0.943489134311676,"[[88.3828125, 651.21875]]",0.9606189727783203,"[0.0, 0.0, 1257.0, 916.0]"
+36,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",13350,"[358.0, 537.0, 66.0, 236.0]",0.9397255778312683,"[[402.6328125, 708.46875]]",0.9488362073898315,"[0.0, 0.0, 1257.0, 916.0]"
+37,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10023,"[0.0, 545.0, 361.0, 126.0]",0.9383423328399658,"[[9.8203125, 636.90625]]",0.9011492133140564,"[0.0, 0.0, 1257.0, 916.0]"
+38,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1255,"[191.0, 701.0, 47.0, 29.0]",0.937195360660553,"[[206.2265625, 708.46875]]",0.9694835543632507,"[0.0, 0.0, 1257.0, 916.0]"
+39,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",36735,"[0.0, 19.0, 857.0, 180.0]",0.936682403087616,"[[29.4609375, 107.34375]]",0.9237105250358582,"[0.0, 0.0, 1257.0, 916.0]"
+40,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5021,"[1065.0, 324.0, 73.0, 143.0]",0.9365848302841187,"[[1090.0546875, 422.21875]]",0.9317307472229004,"[0.0, 0.0, 1257.0, 916.0]"
+41,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7074,"[802.0, 390.0, 269.0, 47.0]",0.9328378438949585,"[[932.9296875, 407.90625]]",0.9487391710281372,"[0.0, 0.0, 1257.0, 916.0]"
+42,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",524,"[1195.0, 77.0, 31.0, 18.0]",0.9320754408836365,"[[1207.8984375, 93.03125]]",0.9753788113594055,"[0.0, 0.0, 1257.0, 916.0]"
+43,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",404,"[123.0, 561.0, 29.0, 15.0]",0.9315521717071533,"[[147.3046875, 565.34375]]",0.9537712931632996,"[0.0, 0.0, 1257.0, 916.0]"
+44,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",588,"[1176.0, 671.0, 23.0, 28.0]",0.9286370873451233,"[[1188.2578125, 694.15625]]",0.9616026878356934,"[0.0, 0.0, 1257.0, 916.0]"
+45,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",394,"[202.0, 522.0, 31.0, 14.0]",0.9275643229484558,"[[225.8671875, 536.71875]]",0.9503722190856934,"[0.0, 0.0, 1257.0, 916.0]"
+46,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7040,"[802.0, 390.0, 270.0, 112.0]",0.925301730632782,"[[815.0859375, 407.90625]]",0.9502976536750793,"[0.0, 0.0, 1257.0, 916.0]"
+47,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2179,"[574.0, 805.0, 73.0, 37.0]",0.9248176217079163,"[[599.0390625, 822.96875]]",0.9611562490463257,"[0.0, 0.0, 1257.0, 916.0]"
+48,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",38365,"[0.0, 40.0, 354.0, 306.0]",0.923586368560791,"[[225.8671875, 322.03125]]",0.9498071670532227,"[0.0, 0.0, 1257.0, 916.0]"
+49,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",312,"[1004.0, 398.0, 28.0, 13.0]",0.9157190918922424,"[[1031.1328125, 407.90625]]",0.955974817276001,"[0.0, 0.0, 1257.0, 916.0]"
+50,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",533,"[212.0, 232.0, 34.0, 18.0]",0.9155871868133545,"[[225.8671875, 236.15625]]",0.9523809552192688,"[0.0, 0.0, 1257.0, 916.0]"
+51,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",11439,"[0.0, 484.0, 364.0, 188.0]",0.9155246615409851,"[[284.7890625, 665.53125]]",0.8267214894294739,"[0.0, 0.0, 1257.0, 916.0]"
+52,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1322,"[361.0, 848.0, 69.0, 29.0]",0.9139637351036072,"[[382.9921875, 865.90625]]",0.9476014971733093,"[0.0, 0.0, 1257.0, 916.0]"
+53,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",463,"[133.0, 300.0, 31.0, 17.0]",0.9133208394050598,"[[147.3046875, 307.71875]]",0.9682203531265259,"[0.0, 0.0, 1257.0, 916.0]"
+54,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",9179,"[1109.0, 342.0, 35.0, 321.0]",0.9128860235214233,"[[1129.3359375, 450.84375]]",0.9183844327926636,"[0.0, 0.0, 1257.0, 916.0]"
+55,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",45303,"[420.0, 498.0, 387.0, 246.0]",0.9047715067863464,"[[579.3984375, 565.34375]]",0.9350153803825378,"[0.0, 0.0, 1257.0, 916.0]"
+56,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",27826,"[820.0, 289.0, 402.0, 178.0]",0.8913525342941284,"[[1109.6953125, 322.03125]]",0.9398818016052246,"[0.0, 0.0, 1257.0, 916.0]"
+57,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",281,"[1003.0, 636.0, 28.0, 11.0]",0.8849076628684998,"[[1011.4921875, 636.90625]]",0.9480968713760376,"[0.0, 0.0, 1257.0, 916.0]"
+58,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",444,"[1193.0, 337.0, 30.0, 17.0]",0.8831870555877686,"[[1207.8984375, 336.34375]]",0.9562363028526306,"[0.0, 0.0, 1257.0, 916.0]"
+59,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",19160,"[28.0, 150.0, 350.0, 88.0]",0.8816315531730652,"[[363.3515625, 193.21875]]",0.9223095774650574,"[0.0, 0.0, 1257.0, 916.0]"
+60,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",17656,"[706.0, 613.0, 450.0, 78.0]",0.8740309476852417,"[[893.6484375, 665.53125]]",0.869279682636261,"[0.0, 0.0, 1257.0, 916.0]"
+61,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2443,"[340.0, 534.0, 26.0, 113.0]",0.8672426342964172,"[[363.3515625, 565.34375]]",0.9128225445747375,"[0.0, 0.0, 1257.0, 916.0]"
+62,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2785,"[350.0, 241.0, 30.0, 109.0]",0.8643186092376709,"[[363.3515625, 322.03125]]",0.9352818131446838,"[0.0, 0.0, 1257.0, 916.0]"
+63,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3831,"[709.0, 561.0, 103.0, 56.0]",0.8588340282440186,"[[736.5234375, 608.28125]]",0.9253132939338684,"[0.0, 0.0, 1257.0, 916.0]"
+64,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",31553,"[741.0, 0.0, 73.0, 610.0]",0.8409923911094666,"[[775.8046875, 479.46875]]",0.8585273027420044,"[0.0, 0.0, 1257.0, 916.0]"
+65,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",17205,"[811.0, 569.0, 404.0, 105.0]",0.8391034603118896,"[[874.0078125, 593.96875]]",0.8783637285232544,"[0.0, 0.0, 1257.0, 916.0]"
+66,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",585,"[0.0, 688.0, 16.0, 75.0]",0.8324773907661438,"[[9.8203125, 751.40625]]",0.9409835934638977,"[0.0, 0.0, 1257.0, 916.0]"
+67,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10949,"[381.0, 0.0, 63.0, 189.0]",0.8075075149536133,"[[402.6328125, 7.15625]]",0.9427433609962463,"[0.0, 0.0, 1257.0, 916.0]"
+68,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",19530,"[26.0, 150.0, 674.0, 98.0]",0.8058120608329773,"[[68.7421875, 207.53125]]",0.9235517978668213,"[0.0, 0.0, 1257.0, 916.0]"
+69,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",21093,"[0.0, 450.0, 410.0, 83.0]",0.7975786924362183,"[[363.3515625, 479.46875]]",0.8916856646537781,"[0.0, 0.0, 1257.0, 916.0]"
+70,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1411,"[361.0, 0.0, 28.0, 60.0]",0.7920522689819336,"[[382.9921875, 7.15625]]",0.923549473285675,"[0.0, 0.0, 1257.0, 916.0]"
+71,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",13281,"[370.0, 19.0, 64.0, 460.0]",0.7890384197235107,"[[422.2734375, 465.15625]]",0.9157209992408752,"[0.0, 0.0, 1257.0, 916.0]"
+72,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1747,"[809.0, 7.0, 18.0, 103.0]",0.7821370363235474,"[[815.0859375, 78.71875]]",0.9198242425918579,"[0.0, 0.0, 1257.0, 916.0]"
+73,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1922,"[801.0, 285.0, 19.0, 104.0]",0.7809263467788696,"[[815.0859375, 364.96875]]",0.9129143953323364,"[0.0, 0.0, 1257.0, 916.0]"
+74,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",148,"[3.0, 620.0, 22.0, 8.0]",0.7737322449684143,"[[9.8203125, 622.59375]]",0.9281045794487,"[0.0, 0.0, 1257.0, 916.0]"
+75,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",55383,"[0.0, 449.0, 1095.0, 176.0]",0.7178913950920105,"[[127.6640625, 508.09375]]",0.8383298516273499,"[0.0, 0.0, 1257.0, 916.0]"
+76,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3657,"[0.0, 91.0, 31.0, 671.0]",0.7007365822792053,"[[9.8203125, 150.28125]]",0.8680958151817322,"[0.0, 0.0, 1257.0, 916.0]"
+77,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",12401,"[744.0, 18.0, 60.0, 490.0]",0.6984499096870422,"[[795.4453125, 493.78125]]",0.917039692401886,"[0.0, 0.0, 1257.0, 916.0]"
+78,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",21484,"[0.0, 450.0, 739.0, 92.0]",0.6862819194793701,"[[9.8203125, 465.15625]]",0.8459982872009277,"[0.0, 0.0, 1257.0, 916.0]"
+79,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",55503,"[0.0, 450.0, 1095.0, 256.0]",0.6857557892799377,"[[166.9453125, 493.78125]]",0.8309206366539001,"[0.0, 0.0, 1257.0, 916.0]"
+80,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",16153,"[811.0, 569.0, 297.0, 87.0]",0.6853675246238708,"[[952.5703125, 579.65625]]",0.9397779107093811,"[0.0, 0.0, 1257.0, 916.0]"
+81,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1955,"[0.0, 91.0, 30.0, 89.0]",0.6775389313697815,"[[9.8203125, 164.59375]]",0.9531171917915344,"[0.0, 0.0, 1257.0, 916.0]"
+82,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",13165,"[371.0, 244.0, 63.0, 235.0]",0.6773109436035156,"[[422.2734375, 450.84375]]",0.9200058579444885,"[0.0, 0.0, 1257.0, 916.0]"
+83,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",40925,"[358.0, 0.0, 84.0, 770.0]",0.6363375186920166,"[[402.6328125, 422.21875]]",0.8144547343254089,"[0.0, 0.0, 1257.0, 916.0]"
+84,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",23951,"[1098.0, 337.0, 138.0, 292.0]",0.6267017126083374,"[[1207.8984375, 593.96875]]",0.9161772131919861,"[0.0, 0.0, 1257.0, 916.0]"
+85,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",12274,"[744.0, 279.0, 59.0, 229.0]",0.6266047954559326,"[[795.4453125, 465.15625]]",0.9221786856651306,"[0.0, 0.0, 1257.0, 916.0]"
+86,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",11515,"[752.0, 0.0, 55.0, 278.0]",0.5922803282737732,"[[756.1640625, 221.84375]]",0.838961660861969,"[0.0, 0.0, 1257.0, 916.0]"
+87,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7103,"[803.0, 392.0, 266.0, 65.0]",0.5720627903938293,"[[1050.7734375, 436.53125]]",0.9002400636672974,"[0.0, 0.0, 1257.0, 916.0]"
+88,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",19413,"[29.0, 151.0, 350.0, 194.0]",0.5241546034812927,"[[363.3515625, 236.15625]]",0.8921764492988586,"[0.0, 0.0, 1257.0, 916.0]"
+89,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7707,"[706.0, 613.0, 283.0, 49.0]",0.5062265396118164,"[[736.5234375, 651.21875]]",0.8617401719093323,"[0.0, 0.0, 1257.0, 916.0]"
+90,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",17897,"[0.0, 484.0, 744.0, 75.0]",0.5007728338241577,"[[697.2421875, 551.03125]]",0.8249825239181519,"[0.0, 0.0, 1257.0, 916.0]"
+91,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6585,"[708.0, 613.0, 173.0, 46.0]",0.49602535367012024,"[[815.0859375, 622.59375]]",0.8580517172813416,"[0.0, 0.0, 1257.0, 916.0]"
+92,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",43641,"[418.0, 544.0, 561.0, 202.0]",0.49064359068870544,"[[520.4765625, 708.46875]]",0.9050459265708923,"[0.0, 0.0, 1257.0, 916.0]"
+93,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",15603,"[0.0, 349.0, 247.0, 114.0]",0.47953054308891296,"[[127.6640625, 407.90625]]",0.8212007284164429,"[0.0, 0.0, 1257.0, 916.0]"
+94,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",16981,"[0.0, 459.0, 1057.0, 99.0]",0.4508933424949646,"[[579.3984375, 522.40625]]",0.8182482123374939,"[0.0, 0.0, 1257.0, 916.0]"
+95,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6354,"[741.0, 429.0, 68.0, 184.0]",0.4206351339817047,"[[775.8046875, 522.40625]]",0.8842606544494629,"[0.0, 0.0, 1257.0, 916.0]"
+96,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",17549,"[81.0, 483.0, 903.0, 75.0]",0.40220293402671814,"[[500.8359375, 493.78125]]",0.8332145810127258,"[0.0, 0.0, 1257.0, 916.0]"
+97,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6938,"[0.0, 817.0, 52.0, 141.0]",0.9723421931266785,"[[9.8203125, 943.78125]]",0.9798282980918884,"[0.0, 450.0, 1257.0, 916.0]"
+98,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7305,"[622.0, 1204.0, 123.0, 95.0]",0.9591615200042725,"[[716.8828125, 1272.96875]]",0.9586400985717773,"[0.0, 450.0, 1257.0, 916.0]"
+99,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10770,"[47.0, 821.0, 114.0, 132.0]",0.9563955068588257,"[[68.7421875, 915.15625]]",0.9648163318634033,"[0.0, 450.0, 1257.0, 916.0]"
+100,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10816,"[47.0, 795.0, 289.0, 159.0]",0.95470130443573,"[[68.7421875, 943.78125]]",0.9678182005882263,"[0.0, 450.0, 1257.0, 916.0]"
+101,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3017,"[923.0, 997.0, 97.0, 33.0]",0.9514181613922119,"[[952.5703125, 1001.03125]]",0.9620376229286194,"[0.0, 450.0, 1257.0, 916.0]"
+102,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",38186,"[0.0, 510.0, 345.0, 443.0]",0.9457187056541443,"[[186.5859375, 528.71875]]",0.8857561349868774,"[0.0, 450.0, 1257.0, 916.0]"
+103,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",8284,"[769.0, 1208.0, 126.0, 99.0]",0.9442667365074158,"[[795.4453125, 1230.03125]]",0.9490251541137695,"[0.0, 450.0, 1257.0, 916.0]"
+104,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2275,"[431.0, 1033.0, 77.0, 32.0]",0.9420718550682068,"[[441.9140625, 1043.96875]]",0.9680483341217041,"[0.0, 450.0, 1257.0, 916.0]"
+105,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5715,"[121.0, 867.0, 96.0, 80.0]",0.9391601085662842,"[[186.5859375, 900.84375]]",0.845219075679779,"[0.0, 450.0, 1257.0, 916.0]"
+106,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7860,"[307.0, 1189.0, 113.0, 91.0]",0.9381586313247681,"[[402.6328125, 1215.71875]]",0.8721123933792114,"[0.0, 450.0, 1257.0, 916.0]"
+107,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",29016,"[7.0, 657.0, 351.0, 289.0]",0.9329590201377869,"[[68.7421875, 671.84375]]",0.919442892074585,"[0.0, 450.0, 1257.0, 916.0]"
+108,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",11003,"[4.0, 819.0, 156.0, 137.0]",0.9115920662879944,"[[88.3828125, 929.46875]]",0.9163357019424438,"[0.0, 450.0, 1257.0, 916.0]"
+109,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2598,"[558.0, 1200.0, 44.0, 91.0]",0.8996279835700989,"[[579.3984375, 1215.71875]]",0.9612199068069458,"[0.0, 450.0, 1257.0, 916.0]"
+110,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",661,"[1173.0, 852.0, 24.0, 47.0]",0.8981370329856873,"[[1188.2578125, 872.21875]]",0.9643387794494629,"[0.0, 450.0, 1257.0, 916.0]"
+111,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2335,"[436.0, 898.0, 95.0, 48.0]",0.8971918821334839,"[[461.5546875, 929.46875]]",0.9082086682319641,"[0.0, 450.0, 1257.0, 916.0]"
+112,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3314,"[308.0, 914.0, 139.0, 36.0]",0.8956560492515564,"[[382.9921875, 929.46875]]",0.9566755294799805,"[0.0, 450.0, 1257.0, 916.0]"
+113,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",8297,"[0.0, 655.0, 63.0, 297.0]",0.8930395245552063,"[[49.1015625, 772.03125]]",0.9242133498191833,"[0.0, 450.0, 1257.0, 916.0]"
+114,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1832,"[0.0, 997.0, 34.0, 62.0]",0.8910910487174988,"[[9.8203125, 1015.34375]]",0.9688172340393066,"[0.0, 450.0, 1257.0, 916.0]"
+115,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",16351,"[0.0, 698.0, 385.0, 126.0]",0.8801547288894653,"[[29.4609375, 800.65625]]",0.9509283304214478,"[0.0, 450.0, 1257.0, 916.0]"
+116,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1379,"[516.0, 900.0, 47.0, 41.0]",0.8633649945259094,"[[540.1171875, 915.15625]]",0.9547063112258911,"[0.0, 450.0, 1257.0, 916.0]"
+117,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2076,"[516.0, 894.0, 77.0, 47.0]",0.8530150651931763,"[[559.7578125, 929.46875]]",0.8291704058647156,"[0.0, 450.0, 1257.0, 916.0]"
+118,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3608,"[443.0, 1197.0, 78.0, 90.0]",0.829164445400238,"[[461.5546875, 1230.03125]]",0.9420134425163269,"[0.0, 450.0, 1257.0, 916.0]"
+119,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",8345,"[644.0, 1208.0, 252.0, 99.0]",0.826141357421875,"[[854.3671875, 1215.71875]]",0.9373624920845032,"[0.0, 450.0, 1257.0, 916.0]"
+120,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5248,"[125.0, 808.0, 144.0, 109.0]",0.8189535140991211,"[[225.8671875, 829.28125]]",0.9273318648338318,"[0.0, 450.0, 1257.0, 916.0]"
+121,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",396,"[249.0, 825.0, 37.0, 14.0]",0.8124711513519287,"[[265.1484375, 829.28125]]",0.9385749101638794,"[0.0, 450.0, 1257.0, 916.0]"
+122,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",4073,"[922.0, 996.0, 99.0, 50.0]",0.8039272427558899,"[[991.8515625, 1015.34375]]",0.9308384656906128,"[0.0, 450.0, 1257.0, 916.0]"
+123,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",45070,"[241.0, 540.0, 498.0, 273.0]",0.8016964197158813,"[[716.8828125, 614.59375]]",0.9245972633361816,"[0.0, 450.0, 1257.0, 916.0]"
+124,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10676,"[417.0, 796.0, 199.0, 116.0]",0.7553462386131287,"[[441.9140625, 900.84375]]",0.8635381460189819,"[0.0, 450.0, 1257.0, 916.0]"
+125,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5969,"[187.0, 1181.0, 98.0, 83.0]",0.7533181309700012,"[[265.1484375, 1201.40625]]",0.9640501141548157,"[0.0, 450.0, 1257.0, 916.0]"
+126,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [ True  True  True ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",20035,"[0.0, 952.0, 110.0, 413.0]",0.7363318800926208,"[[9.8203125, 1158.46875]]",0.9437229633331299,"[0.0, 450.0, 1257.0, 916.0]"
+127,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",9961,"[417.0, 843.0, 199.0, 68.0]",0.7253376841545105,"[[441.9140625, 857.90625]]",0.9314418435096741,"[0.0, 450.0, 1257.0, 916.0]"
+128,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2793,"[257.0, 884.0, 81.0, 63.0]",0.7235272526741028,"[[324.0703125, 900.84375]]",0.9050697684288025,"[0.0, 450.0, 1257.0, 916.0]"
+129,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",11695,"[982.0, 779.0, 134.0, 133.0]",0.6927770376205444,"[[1090.0546875, 872.21875]]",0.896068811416626,"[0.0, 450.0, 1257.0, 916.0]"
+130,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",9837,"[341.0, 798.0, 274.0, 111.0]",0.6815541386604309,"[[540.1171875, 886.53125]]",0.9059467911720276,"[0.0, 450.0, 1257.0, 916.0]"
+131,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",46792,"[64.0, 538.0, 676.0, 407.0]",0.6654406785964966,"[[697.2421875, 628.90625]]",0.8161057233810425,"[0.0, 450.0, 1257.0, 916.0]"
+132,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10003,"[340.0, 834.0, 277.0, 75.0]",0.6630001068115234,"[[599.0390625, 872.21875]]",0.9076324105262756,"[0.0, 450.0, 1257.0, 916.0]"
+133,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3347,"[435.0, 898.0, 156.0, 48.0]",0.661034345626831,"[[441.9140625, 929.46875]]",0.867290735244751,"[0.0, 450.0, 1257.0, 916.0]"
+134,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2204,"[577.0, 769.0, 87.0, 40.0]",0.622102677822113,"[[618.6796875, 772.03125]]",0.8625792860984802,"[0.0, 450.0, 1257.0, 916.0]"
+135,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6272,"[123.0, 827.0, 115.0, 121.0]",0.5928775668144226,"[[206.2265625, 929.46875]]",0.8577380776405334,"[0.0, 450.0, 1257.0, 916.0]"
+136,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",15212,"[0.0, 654.0, 229.0, 302.0]",0.5675485134124756,"[[9.8203125, 657.53125]]",0.8312527537345886,"[0.0, 450.0, 1257.0, 916.0]"
+137,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1143,"[559.0, 893.0, 37.0, 45.0]",0.548528254032135,"[[579.3984375, 929.46875]]",0.9430755972862244,"[0.0, 450.0, 1257.0, 916.0]"
+138,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",519,"[530.0, 777.0, 46.0, 16.0]",0.5122093558311462,"[[559.7578125, 786.34375]]",0.8476702570915222,"[0.0, 450.0, 1257.0, 916.0]"
+139,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",806,"[1198.0, 852.0, 34.0, 43.0]",0.4794764220714569,"[[1227.5390625, 857.90625]]",0.8607594966888428,"[0.0, 450.0, 1257.0, 916.0]"
+140,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2798,"[254.0, 886.0, 156.0, 63.0]",0.4578891396522522,"[[265.1484375, 943.78125]]",0.8180394768714905,"[0.0, 450.0, 1257.0, 916.0]"
+141,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",60965,"[826.0, 13.0, 804.0, 214.0]",0.987464189529419,"[[1409.6796875, 121.65625]]",0.9688532948493958,"[791.0, 0.0, 1257.0, 916.0]"
+142,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",60896,"[827.0, 13.0, 1213.0, 203.0]",0.9863930344581604,"[[1232.9140625, 78.71875]]",0.9760036468505859,"[791.0, 0.0, 1257.0, 916.0]"
+143,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",60601,"[826.0, 14.0, 629.0, 166.0]",0.9856654405593872,"[[1409.6796875, 164.59375]]",0.9764253497123718,"[791.0, 0.0, 1257.0, 916.0]"
+144,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",44830,"[1623.0, 0.0, 81.0, 813.0]",0.9752183556556702,"[[1684.6484375, 21.46875]]",0.9314447641372681,"[791.0, 0.0, 1257.0, 916.0]"
+145,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",41494,"[1642.0, 0.0, 123.0, 831.0]",0.9681273698806763,"[[1743.5703125, 50.09375]]",0.9436421394348145,"[791.0, 0.0, 1257.0, 916.0]"
+146,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",30447,"[1577.0, 617.0, 470.0, 127.0]",0.9667364358901978,"[[1881.0546875, 722.78125]]",0.8969995975494385,"[791.0, 0.0, 1257.0, 916.0]"
+147,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",18697,"[1454.0, 0.0, 143.0, 166.0]",0.9659806489944458,"[[1547.1640625, 64.40625]]",0.9736120104789734,"[791.0, 0.0, 1257.0, 916.0]"
+148,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",41561,"[1696.0, 0.0, 69.0, 831.0]",0.9658528566360474,"[[1723.9296875, 50.09375]]",0.9495338797569275,"[791.0, 0.0, 1257.0, 916.0]"
+149,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",30342,"[1577.0, 378.0, 470.0, 116.0]",0.9619578123092651,"[[1979.2578125, 407.90625]]",0.9672136306762695,"[791.0, 0.0, 1257.0, 916.0]"
+150,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3022,"[1847.0, 0.0, 200.0, 28.0]",0.9618709087371826,"[[1959.6171875, 7.15625]]",0.95315021276474,"[791.0, 0.0, 1257.0, 916.0]"
+151,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",39682,"[813.0, 569.0, 640.0, 138.0]",0.9594686031341553,"[[1193.6328125, 636.90625]]",0.96082603931427,"[791.0, 0.0, 1257.0, 916.0]"
+152,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",24994,"[1584.0, 233.0, 463.0, 121.0]",0.9585715532302856,"[[2018.5390625, 322.03125]]",0.9462565183639526,"[791.0, 0.0, 1257.0, 916.0]"
+153,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",26657,"[1573.0, 737.0, 474.0, 115.0]",0.9582147002220154,"[[1822.1328125, 822.96875]]",0.9363791346549988,"[791.0, 0.0, 1257.0, 916.0]"
+154,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",24715,"[1697.0, 243.0, 350.0, 111.0]",0.9566072821617126,"[[2038.1796875, 307.71875]]",0.9673404693603516,"[791.0, 0.0, 1257.0, 916.0]"
+155,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",9414,"[1307.0, 215.0, 69.0, 170.0]",0.956394374370575,"[[1350.7578125, 322.03125]]",0.9649874567985535,"[791.0, 0.0, 1257.0, 916.0]"
+156,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",27335,"[819.0, 288.0, 592.0, 139.0]",0.9558579921722412,"[[1016.8671875, 393.59375]]",0.8423589468002319,"[791.0, 0.0, 1257.0, 916.0]"
+157,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",29746,"[1225.0, 105.0, 822.0, 143.0]",0.955005407333374,"[[2038.1796875, 178.90625]]",0.9614751935005188,"[791.0, 0.0, 1257.0, 916.0]"
+158,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",45446,"[1456.0, 0.0, 249.0, 816.0]",0.9511190056800842,"[[1684.6484375, 121.65625]]",0.8758179545402527,"[791.0, 0.0, 1257.0, 916.0]"
+159,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",25389,"[1583.0, 155.0, 464.0, 199.0]",0.9505299925804138,"[[1920.3359375, 336.34375]]",0.9402235746383667,"[791.0, 0.0, 1257.0, 916.0]"
+160,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",20081,"[1250.0, 453.0, 224.0, 105.0]",0.9499542713165283,"[[1429.3203125, 551.03125]]",0.9725441932678223,"[791.0, 0.0, 1257.0, 916.0]"
+161,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",4743,"[1200.0, 0.0, 257.0, 33.0]",0.9496894478797913,"[[1429.3203125, 21.46875]]",0.9686592221260071,"[791.0, 0.0, 1257.0, 916.0]"
+162,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",29677,"[1586.0, 106.0, 461.0, 142.0]",0.9487790465354919,"[[2018.5390625, 193.21875]]",0.9560588002204895,"[791.0, 0.0, 1257.0, 916.0]"
+163,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2586,"[1226.0, 289.0, 33.0, 101.0]",0.9476215839385986,"[[1232.9140625, 350.65625]]",0.9630328416824341,"[791.0, 0.0, 1257.0, 916.0]"
+164,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",20063,"[921.0, 453.0, 553.0, 105.0]",0.947355329990387,"[[1448.9609375, 551.03125]]",0.9712024927139282,"[791.0, 0.0, 1257.0, 916.0]"
+165,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",23931,"[1696.0, 0.0, 351.0, 109.0]",0.9460092186927795,"[[1763.2109375, 7.15625]]",0.9616110920906067,"[791.0, 0.0, 1257.0, 916.0]"
+166,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",27375,"[1752.0, 634.0, 295.0, 110.0]",0.9455474615097046,"[[1939.9765625, 679.84375]]",0.9661454558372498,"[791.0, 0.0, 1257.0, 916.0]"
+167,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",29294,"[1577.0, 486.0, 470.0, 116.0]",0.9454116225242615,"[[1920.3359375, 522.40625]]",0.9300949573516846,"[791.0, 0.0, 1257.0, 916.0]"
+168,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",27139,"[1240.0, 0.0, 807.0, 109.0]",0.942552924156189,"[[2038.1796875, 35.78125]]",0.9009669423103333,"[791.0, 0.0, 1257.0, 916.0]"
+169,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7861,"[1219.0, 377.0, 31.0, 305.0]",0.9418017864227295,"[[1232.9140625, 393.59375]]",0.9543982148170471,"[791.0, 0.0, 1257.0, 916.0]"
+170,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",39433,"[813.0, 462.0, 640.0, 246.0]",0.9390532970428467,"[[1409.6796875, 636.90625]]",0.961461067199707,"[791.0, 0.0, 1257.0, 916.0]"
+171,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",25763,"[813.0, 0.0, 665.0, 85.0]",0.934788703918457,"[[1429.3203125, 78.71875]]",0.9403761625289917,"[791.0, 0.0, 1257.0, 916.0]"
+172,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",9722,"[1268.0, 215.0, 108.0, 171.0]",0.932763397693634,"[[1370.3984375, 336.34375]]",0.9339855909347534,"[791.0, 0.0, 1257.0, 916.0]"
+173,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",20134,"[1249.0, 454.0, 225.0, 149.0]",0.9319274425506592,"[[1468.6015625, 479.46875]]",0.9507396221160889,"[791.0, 0.0, 1257.0, 916.0]"
+174,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",25734,"[1753.0, 126.0, 294.0, 122.0]",0.931103527545929,"[[1900.6953125, 178.90625]]",0.9539468884468079,"[791.0, 0.0, 1257.0, 916.0]"
+175,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",376,"[1972.0, 655.0, 29.0, 14.0]",0.9289741516113281,"[[1998.8984375, 665.53125]]",0.9736841917037964,"[791.0, 0.0, 1257.0, 916.0]"
+176,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",14876,"[950.0, 269.0, 1097.0, 135.0]",0.9284117817878723,"[[1979.2578125, 379.28125]]",0.9614014029502869,"[791.0, 0.0, 1257.0, 916.0]"
+177,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",30022,"[1584.0, 30.0, 463.0, 218.0]",0.9276748895645142,"[[1782.8515625, 207.53125]]",0.9629338979721069,"[791.0, 0.0, 1257.0, 916.0]"
+178,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",31551,"[1264.0, 361.0, 783.0, 134.0]",0.9272115230560303,"[[2018.5390625, 450.84375]]",0.9489371180534363,"[791.0, 0.0, 1257.0, 916.0]"
+179,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1062,"[1809.0, 785.0, 45.0, 26.0]",0.9267883896827698,"[[1841.7734375, 794.34375]]",0.9664804339408875,"[791.0, 0.0, 1257.0, 916.0]"
+180,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",450,"[1975.0, 174.0, 30.0, 16.0]",0.926556408405304,"[[1979.2578125, 178.90625]]",0.9779249429702759,"[791.0, 0.0, 1257.0, 916.0]"
+181,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",370,"[1414.0, 662.0, 27.0, 14.0]",0.9245548248291016,"[[1429.3203125, 665.53125]]",0.9891892075538635,"[791.0, 0.0, 1257.0, 916.0]"
+182,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",14933,"[1694.0, 320.0, 353.0, 84.0]",0.9208477139472961,"[[1782.8515625, 364.96875]]",0.957431435585022,"[791.0, 0.0, 1257.0, 916.0]"
+183,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",31401,"[1263.0, 458.0, 784.0, 144.0]",0.9184888005256653,"[[2038.1796875, 522.40625]]",0.8940169811248779,"[791.0, 0.0, 1257.0, 916.0]"
+184,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6988,"[1517.0, 266.0, 121.0, 123.0]",0.91803377866745,"[[1527.5234375, 350.65625]]",0.9480699896812439,"[791.0, 0.0, 1257.0, 916.0]"
+185,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",27547,"[1425.0, 724.0, 622.0, 154.0]",0.9172130823135376,"[[1782.8515625, 822.96875]]",0.9087395071983337,"[791.0, 0.0, 1257.0, 916.0]"
+186,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",26851,"[1580.0, 30.0, 467.0, 324.0]",0.914969801902771,"[[1763.2109375, 307.71875]]",0.9180048704147339,"[791.0, 0.0, 1257.0, 916.0]"
+187,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",25757,"[812.0, 0.0, 1169.0, 105.0]",0.9145593047142029,"[[1390.0390625, 35.78125]]",0.9564475417137146,"[791.0, 0.0, 1257.0, 916.0]"
+188,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",271,"[1417.0, 435.0, 26.0, 11.0]",0.9115467071533203,"[[1429.3203125, 436.53125]]",0.9599999785423279,"[791.0, 0.0, 1257.0, 916.0]"
+189,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",229,"[1867.0, 728.0, 23.0, 11.0]",0.9106786251068115,"[[1881.0546875, 737.09375]]",0.9568965435028076,"[791.0, 0.0, 1257.0, 916.0]"
+190,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1175,"[1480.0, 416.0, 57.0, 40.0]",0.9100239276885986,"[[1507.8828125, 436.53125]]",0.9444444179534912,"[791.0, 0.0, 1257.0, 916.0]"
+191,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",34871,"[1637.0, 0.0, 55.0, 713.0]",0.9095920324325562,"[[1645.3671875, 135.96875]]",0.8176082372665405,"[791.0, 0.0, 1257.0, 916.0]"
+192,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",31685,"[945.0, 302.0, 1102.0, 192.0]",0.907347559928894,"[[1802.4921875, 393.59375]]",0.9565606117248535,"[791.0, 0.0, 1257.0, 916.0]"
+193,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",22913,"[1371.0, 205.0, 154.0, 219.0]",0.9050459265708923,"[[1507.8828125, 250.46875]]",0.8097187280654907,"[791.0, 0.0, 1257.0, 916.0]"
+194,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",18511,"[1535.0, 173.0, 41.0, 604.0]",0.9038794636726379,"[[1566.8046875, 751.40625]]",0.8968262076377869,"[791.0, 0.0, 1257.0, 916.0]"
+195,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",30205,"[1574.0, 480.0, 473.0, 227.0]",0.9028014540672302,"[[1606.0859375, 536.71875]]",0.9656303524971008,"[791.0, 0.0, 1257.0, 916.0]"
+196,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",318,"[1976.0, 415.0, 26.0, 13.0]",0.901540994644165,"[[1998.8984375, 422.21875]]",0.9690402746200562,"[791.0, 0.0, 1257.0, 916.0]"
+197,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",27875,"[1573.0, 609.0, 474.0, 280.0]",0.8998632431030273,"[[1763.2109375, 794.34375]]",0.8894664645195007,"[791.0, 0.0, 1257.0, 916.0]"
+198,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",45151,"[1067.0, 329.0, 183.0, 352.0]",0.8960361480712891,"[[1173.9921875, 536.71875]]",0.9167117476463318,"[791.0, 0.0, 1257.0, 916.0]"
+199,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1213,"[1479.0, 173.0, 60.0, 31.0]",0.8895118236541748,"[[1507.8828125, 193.21875]]",0.9555376172065735,"[791.0, 0.0, 1257.0, 916.0]"
+200,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",26777,"[1753.0, 378.0, 294.0, 116.0]",0.8891788721084595,"[[1939.9765625, 479.46875]]",0.9663516283035278,"[791.0, 0.0, 1257.0, 916.0]"
+201,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",473,"[1499.0, 735.0, 21.0, 28.0]",0.8890682458877563,"[[1507.8828125, 751.40625]]",0.9605808854103088,"[791.0, 0.0, 1257.0, 916.0]"
+202,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6524,"[1505.0, 312.0, 83.0, 455.0]",0.8849664926528931,"[[1527.5234375, 536.71875]]",0.924358606338501,"[791.0, 0.0, 1257.0, 916.0]"
+203,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",26442,"[862.0, 155.0, 1185.0, 200.0]",0.8832314610481262,"[[2038.1796875, 350.65625]]",0.901357889175415,"[791.0, 0.0, 1257.0, 916.0]"
+204,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2347,"[1415.0, 323.0, 31.0, 93.0]",0.8828805088996887,"[[1429.3203125, 379.28125]]",0.9376291036605835,"[791.0, 0.0, 1257.0, 916.0]"
+205,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",37811,"[820.0, 289.0, 1201.0, 152.0]",0.8804710507392883,"[[1173.9921875, 322.03125]]",0.907112181186676,"[791.0, 0.0, 1257.0, 916.0]"
+206,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5120,"[1268.0, 698.0, 219.0, 55.0]",0.8792435526847839,"[[1311.4765625, 708.46875]]",0.9336850047111511,"[791.0, 0.0, 1257.0, 916.0]"
+207,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",8201,"[1116.0, 375.0, 134.0, 308.0]",0.8787655234336853,"[[1232.9140625, 651.21875]]",0.8903424143791199,"[791.0, 0.0, 1257.0, 916.0]"
+208,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",30113,"[1004.0, 33.0, 1043.0, 215.0]",0.873850405216217,"[[1861.4140625, 207.53125]]",0.9471388459205627,"[791.0, 0.0, 1257.0, 916.0]"
+209,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",30398,"[1308.0, 480.0, 739.0, 231.0]",0.8728364109992981,"[[1606.0859375, 493.78125]]",0.9526076912879944,"[791.0, 0.0, 1257.0, 916.0]"
+210,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7131,"[1529.0, 68.0, 518.0, 203.0]",0.868773877620697,"[[1802.4921875, 236.15625]]",0.9267177581787109,"[791.0, 0.0, 1257.0, 916.0]"
+211,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7228,"[1598.0, 202.0, 449.0, 70.0]",0.8623384237289429,"[[1861.4140625, 236.15625]]",0.9306864738464355,"[791.0, 0.0, 1257.0, 916.0]"
+212,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",16143,"[812.0, 569.0, 634.0, 94.0]",0.8580559492111206,"[[977.5859375, 579.65625]]",0.9139010906219482,"[791.0, 0.0, 1257.0, 916.0]"
+213,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",14847,"[861.0, 191.0, 1186.0, 213.0]",0.857151448726654,"[[1959.6171875, 393.59375]]",0.9076766967773438,"[791.0, 0.0, 1257.0, 916.0]"
+214,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7178,"[1147.0, 212.0, 900.0, 60.0]",0.8553996086120605,"[[1979.2578125, 250.46875]]",0.9276254177093506,"[791.0, 0.0, 1257.0, 916.0]"
+215,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7132,"[1695.0, 67.0, 352.0, 204.0]",0.8541869521141052,"[[1782.8515625, 236.15625]]",0.9222087860107422,"[791.0, 0.0, 1257.0, 916.0]"
+216,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",31233,"[925.0, 480.0, 1122.0, 123.0]",0.8538409471511841,"[[1959.6171875, 593.96875]]",0.8194559216499329,"[791.0, 0.0, 1257.0, 916.0]"
+217,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",4773,"[1199.0, 0.0, 765.0, 33.0]",0.8534578084945679,"[[1232.9140625, 7.15625]]",0.962368905544281,"[791.0, 0.0, 1257.0, 916.0]"
+218,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",4944,"[1368.0, 216.0, 73.0, 89.0]",0.851394772529602,"[[1370.3984375, 264.78125]]",0.8077964186668396,"[791.0, 0.0, 1257.0, 916.0]"
+219,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",30203,"[1584.0, 105.0, 463.0, 348.0]",0.8484154939651489,"[[1625.7265625, 121.65625]]",0.9582644701004028,"[791.0, 0.0, 1257.0, 916.0]"
+220,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7374,"[1146.0, 69.0, 901.0, 203.0]",0.8453935980796814,"[[2018.5390625, 250.46875]]",0.916451096534729,"[791.0, 0.0, 1257.0, 916.0]"
+221,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",14374,"[1450.0, 406.0, 80.0, 349.0]",0.8439937233924866,"[[1488.2421875, 665.53125]]",0.9123015999794006,"[791.0, 0.0, 1257.0, 916.0]"
+222,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3713,"[1576.0, 387.0, 60.0, 71.0]",0.8402000069618225,"[[1625.7265625, 422.21875]]",0.9288476705551147,"[791.0, 0.0, 1257.0, 916.0]"
+223,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10622,"[1082.0, 332.0, 64.0, 331.0]",0.83841872215271,"[[1134.7109375, 422.21875]]",0.8902449607849121,"[791.0, 0.0, 1257.0, 916.0]"
+224,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",16794,"[1577.0, 571.0, 470.0, 80.0]",0.8371490836143494,"[[1979.2578125, 636.90625]]",0.9048880338668823,"[791.0, 0.0, 1257.0, 916.0]"
+225,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",19365,"[1417.0, 205.0, 108.0, 220.0]",0.8363116383552551,"[[1488.2421875, 407.90625]]",0.8666829466819763,"[791.0, 0.0, 1257.0, 916.0]"
+226,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",15935,"[1058.0, 12.0, 989.0, 145.0]",0.8361250758171082,"[[1939.9765625, 135.96875]]",0.9004694223403931,"[791.0, 0.0, 1257.0, 916.0]"
+227,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",39224,"[1455.0, 0.0, 141.0, 773.0]",0.8313587307929993,"[[1566.8046875, 164.59375]]",0.9233436584472656,"[791.0, 0.0, 1257.0, 916.0]"
+228,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",46582,"[1615.0, 0.0, 130.0, 832.0]",0.8304070830345154,"[[1625.7265625, 751.40625]]",0.9016581773757935,"[791.0, 0.0, 1257.0, 916.0]"
+229,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",24695,"[1752.0, 497.0, 295.0, 104.0]",0.8292120695114136,"[[1782.8515625, 551.03125]]",0.9691609144210815,"[791.0, 0.0, 1257.0, 916.0]"
+230,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7589,"[1329.0, 613.0, 718.0, 155.0]",0.8281010389328003,"[[1979.2578125, 751.40625]]",0.8993788957595825,"[791.0, 0.0, 1257.0, 916.0]"
+231,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",390,"[1490.0, 529.0, 30.0, 18.0]",0.8242476582527161,"[[1507.8828125, 536.71875]]",0.9430692791938782,"[791.0, 0.0, 1257.0, 916.0]"
+232,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",15824,"[1597.0, 57.0, 450.0, 100.0]",0.823814868927002,"[[1763.2109375, 93.03125]]",0.8822837471961975,"[791.0, 0.0, 1257.0, 916.0]"
+233,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5863,"[1572.0, 615.0, 61.0, 104.0]",0.8232086300849915,"[[1606.0859375, 679.84375]]",0.9360995888710022,"[791.0, 0.0, 1257.0, 916.0]"
+234,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",23362,"[1753.0, 753.0, 294.0, 97.0]",0.8209394216537476,"[[1861.4140625, 794.34375]]",0.9318662881851196,"[791.0, 0.0, 1257.0, 916.0]"
+235,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",418,"[1488.0, 678.0, 31.0, 19.0]",0.8107063174247742,"[[1507.8828125, 679.84375]]",0.9577465057373047,"[791.0, 0.0, 1257.0, 916.0]"
+236,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5725,"[1508.0, 444.0, 76.0, 322.0]",0.8068901300430298,"[[1527.5234375, 722.78125]]",0.8767303824424744,"[791.0, 0.0, 1257.0, 916.0]"
+237,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",15892,"[1597.0, 5.0, 450.0, 152.0]",0.8036450743675232,"[[1763.2109375, 107.34375]]",0.8668280839920044,"[791.0, 0.0, 1257.0, 916.0]"
+238,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",122,"[1914.0, 474.0, 11.0, 11.0]",0.8029812574386597,"[[1920.3359375, 479.46875]]",0.975806474685669,"[791.0, 0.0, 1257.0, 916.0]"
+239,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",269,"[1695.0, 604.0, 18.0, 17.0]",0.8014764189720154,"[[1704.2890625, 608.28125]]",0.9422382712364197,"[791.0, 0.0, 1257.0, 916.0]"
+240,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3589,"[1262.0, 190.0, 376.0, 164.0]",0.80126953125,"[[1606.0859375, 221.84375]]",0.8962264060974121,"[791.0, 0.0, 1257.0, 916.0]"
+241,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",20282,"[1510.0, 0.0, 73.0, 778.0]",0.798555314540863,"[[1547.1640625, 765.71875]]",0.8743520975112915,"[791.0, 0.0, 1257.0, 916.0]"
+242,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7503,"[1575.0, 719.0, 472.0, 48.0]",0.7964450716972351,"[[1782.8515625, 737.09375]]",0.8888748288154602,"[791.0, 0.0, 1257.0, 916.0]"
+243,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",104,"[1238.0, 676.0, 13.0, 9.0]",0.7963153719902039,"[[1252.5546875, 679.84375]]",0.8990825414657593,"[791.0, 0.0, 1257.0, 916.0]"
+244,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1180,"[1364.0, 209.0, 33.0, 182.0]",0.7957468628883362,"[[1390.0390625, 379.28125]]",0.920945405960083,"[791.0, 0.0, 1257.0, 916.0]"
+245,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",4752,"[1314.0, 217.0, 125.0, 87.0]",0.7953205704689026,"[[1409.6796875, 279.09375]]",0.8457198739051819,"[791.0, 0.0, 1257.0, 916.0]"
+246,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7604,"[1579.0, 459.0, 468.0, 60.0]",0.7886308431625366,"[[1979.2578125, 508.09375]]",0.8826232552528381,"[791.0, 0.0, 1257.0, 916.0]"
+247,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",25673,"[826.0, 0.0, 688.0, 313.0]",0.7806271910667419,"[[1468.6015625, 50.09375]]",0.8572198152542114,"[791.0, 0.0, 1257.0, 916.0]"
+248,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7540,"[1333.0, 717.0, 714.0, 51.0]",0.7761803269386292,"[[1802.4921875, 737.09375]]",0.8888053297996521,"[791.0, 0.0, 1257.0, 916.0]"
+249,"[[False False False ...  True  True  True]
+ [False False False ...  True  True  True]
+ [False False False ...  True  True  True]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",137,"[2013.0, 0.0, 34.0, 5.0]",0.7729511260986328,"[[2038.1796875, 7.15625]]",0.949999988079071,"[791.0, 0.0, 1257.0, 916.0]"
+250,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1163,"[1504.0, 437.0, 84.0, 34.0]",0.7666715383529663,"[[1507.8828125, 450.84375]]",0.8922448754310608,"[791.0, 0.0, 1257.0, 916.0]"
+251,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",15685,"[1225.0, 40.0, 822.0, 117.0]",0.7535452246665955,"[[1979.2578125, 121.65625]]",0.8935759663581848,"[791.0, 0.0, 1257.0, 916.0]"
+252,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1946,"[1456.0, 44.0, 59.0, 140.0]",0.7522090077400208,"[[1488.2421875, 150.28125]]",0.8429906368255615,"[791.0, 0.0, 1257.0, 916.0]"
+253,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",25769,"[1309.0, 202.0, 216.0, 224.0]",0.7437741756439209,"[[1488.2421875, 379.28125]]",0.9178683161735535,"[791.0, 0.0, 1257.0, 916.0]"
+254,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1178,"[1455.0, 142.0, 32.0, 42.0]",0.7430946230888367,"[[1468.6015625, 178.90625]]",0.923202633857727,"[791.0, 0.0, 1257.0, 916.0]"
+255,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",20870,"[1519.0, 158.0, 60.0, 619.0]",0.738486111164093,"[[1547.1640625, 694.15625]]",0.9323998689651489,"[791.0, 0.0, 1257.0, 916.0]"
+256,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",39851,"[813.0, 569.0, 1194.0, 169.0]",0.7375534176826477,"[[1075.7890625, 651.21875]]",0.8347683548927307,"[791.0, 0.0, 1257.0, 916.0]"
+257,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",37944,"[820.0, 289.0, 1202.0, 324.0]",0.7354094386100769,"[[1095.4296875, 322.03125]]",0.9064702987670898,"[791.0, 0.0, 1257.0, 916.0]"
+258,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",11100,"[1255.0, 340.0, 197.0, 101.0]",0.7345856428146362,"[[1390.0390625, 422.21875]]",0.9051176309585571,"[791.0, 0.0, 1257.0, 916.0]"
+259,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5167,"[1517.0, 454.0, 22.0, 313.0]",0.7314373850822449,"[[1527.5234375, 479.46875]]",0.8838579058647156,"[791.0, 0.0, 1257.0, 916.0]"
+260,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",666,"[1452.0, 420.0, 32.0, 25.0]",0.7307894825935364,"[[1468.6015625, 436.53125]]",0.9107913374900818,"[791.0, 0.0, 1257.0, 916.0]"
+261,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5470,"[1505.0, 444.0, 34.0, 324.0]",0.7293077111244202,"[[1527.5234375, 751.40625]]",0.8133963346481323,"[791.0, 0.0, 1257.0, 916.0]"
+262,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",16790,"[911.0, 556.0, 1136.0, 95.0]",0.7236286997795105,"[[1782.8515625, 593.96875]]",0.8956447243690491,"[791.0, 0.0, 1257.0, 916.0]"
+263,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",4922,"[1267.0, 698.0, 780.0, 58.0]",0.7099226713180542,"[[1272.1953125, 708.46875]]",0.8544398546218872,"[791.0, 0.0, 1257.0, 916.0]"
+264,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1081,"[1274.0, 304.0, 120.0, 87.0]",0.7091576457023621,"[[1390.0390625, 322.03125]]",0.9238263964653015,"[791.0, 0.0, 1257.0, 916.0]"
+265,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1272,"[1259.0, 320.0, 72.0, 34.0]",0.7090004086494446,"[[1311.4765625, 322.03125]]",0.9249431490898132,"[791.0, 0.0, 1257.0, 916.0]"
+266,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7015,"[1696.0, 218.0, 351.0, 112.0]",0.7083832621574402,"[[1763.2109375, 221.84375]]",0.9143050909042358,"[791.0, 0.0, 1257.0, 916.0]"
+267,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",88685,"[828.0, 13.0, 1219.0, 357.0]",0.7079676389694214,"[[1213.2734375, 64.40625]]",0.9156495332717896,"[791.0, 0.0, 1257.0, 916.0]"
+268,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",21235,"[1481.0, 0.0, 98.0, 776.0]",0.6981929540634155,"[[1547.1640625, 536.71875]]",0.8169093132019043,"[791.0, 0.0, 1257.0, 916.0]"
+269,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",13345,"[1307.0, 215.0, 111.0, 170.0]",0.6878800392150879,"[[1331.1171875, 293.40625]]",0.8571531176567078,"[791.0, 0.0, 1257.0, 916.0]"
+270,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2441,"[1519.0, 188.0, 120.0, 68.0]",0.6864162087440491,"[[1625.7265625, 193.21875]]",0.904408872127533,"[791.0, 0.0, 1257.0, 916.0]"
+271,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1866,"[1456.0, 144.0, 58.0, 40.0]",0.6854909658432007,"[[1488.2421875, 164.59375]]",0.9131105542182922,"[791.0, 0.0, 1257.0, 916.0]"
+272,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",157,"[1386.0, 208.0, 12.0, 13.0]",0.6789526343345642,"[[1390.0390625, 207.53125]]",0.8922155499458313,"[791.0, 0.0, 1257.0, 916.0]"
+273,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7756,"[1274.0, 434.0, 773.0, 85.0]",0.6785473823547363,"[[2038.1796875, 508.09375]]",0.8862892389297485,"[791.0, 0.0, 1257.0, 916.0]"
+274,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",14848,"[1308.0, 406.0, 222.0, 348.0]",0.6560534238815308,"[[1507.8828125, 479.46875]]",0.8660808801651001,"[791.0, 0.0, 1257.0, 916.0]"
+275,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",32797,"[1308.0, 30.0, 216.0, 397.0]",0.6485095024108887,"[[1448.9609375, 336.34375]]",0.8034071922302246,"[791.0, 0.0, 1257.0, 916.0]"
+276,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3109,"[1845.0, 0.0, 202.0, 68.0]",0.6414220929145813,"[[1881.0546875, 7.15625]]",0.927446722984314,"[791.0, 0.0, 1257.0, 916.0]"
+277,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",21761,"[1142.0, 598.0, 312.0, 109.0]",0.636160671710968,"[[1291.8359375, 694.15625]]",0.8820236921310425,"[791.0, 0.0, 1257.0, 916.0]"
+278,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",21381,"[915.0, 597.0, 551.0, 149.0]",0.6265343427658081,"[[1252.5546875, 608.28125]]",0.8990589380264282,"[791.0, 0.0, 1257.0, 916.0]"
+279,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",890,"[1386.0, 730.0, 84.0, 20.0]",0.5857762098312378,"[[1448.9609375, 737.09375]]",0.8782790899276733,"[791.0, 0.0, 1257.0, 916.0]"
+280,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",20935,"[1146.0, 597.0, 319.0, 149.0]",0.5788029432296753,"[[1252.5546875, 622.59375]]",0.9024167656898499,"[791.0, 0.0, 1257.0, 916.0]"
+281,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1241,"[1479.0, 173.0, 60.0, 72.0]",0.5726119875907898,"[[1527.5234375, 193.21875]]",0.9318181872367859,"[791.0, 0.0, 1257.0, 916.0]"
+282,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1991,"[1456.0, 38.0, 64.0, 189.0]",0.5709657073020935,"[[1468.6015625, 178.90625]]",0.8588929176330566,"[791.0, 0.0, 1257.0, 916.0]"
+283,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7635,"[1615.0, 712.0, 92.0, 106.0]",0.5691366195678711,"[[1684.6484375, 808.65625]]",0.9516480565071106,"[791.0, 0.0, 1257.0, 916.0]"
+284,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",683,"[1613.0, 648.0, 20.0, 87.0]",0.564461886882782,"[[1625.7265625, 694.15625]]",0.851902186870575,"[791.0, 0.0, 1257.0, 916.0]"
+285,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",8396,"[1453.0, 57.0, 140.0, 92.0]",0.5641112327575684,"[[1527.5234375, 93.03125]]",0.9008142948150635,"[791.0, 0.0, 1257.0, 916.0]"
+286,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",15433,"[1307.0, 215.0, 169.0, 170.0]",0.5572090744972229,"[[1350.7578125, 250.46875]]",0.8418616056442261,"[791.0, 0.0, 1257.0, 916.0]"
+287,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",178,"[1381.0, 208.0, 17.0, 16.0]",0.5523742437362671,"[[1390.0390625, 221.84375]]",0.8512820601463318,"[791.0, 0.0, 1257.0, 916.0]"
+288,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",39589,"[1313.0, 0.0, 283.0, 775.0]",0.5467051863670349,"[[1547.1640625, 236.15625]]",0.8758195042610168,"[791.0, 0.0, 1257.0, 916.0]"
+289,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",11332,"[1063.0, 316.0, 388.0, 125.0]",0.5354580283164978,"[[1350.7578125, 407.90625]]",0.8360897302627563,"[791.0, 0.0, 1257.0, 916.0]"
+290,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5202,"[816.0, 405.0, 684.0, 65.0]",0.5264908671379089,"[[1448.9609375, 450.84375]]",0.8422945141792297,"[791.0, 0.0, 1257.0, 916.0]"
+291,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2436,"[1586.0, 615.0, 48.0, 71.0]",0.5125346183776855,"[[1606.0859375, 651.21875]]",0.8439263105392456,"[791.0, 0.0, 1257.0, 916.0]"
+292,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",18405,"[1695.0, 245.0, 55.0, 587.0]",0.4876633286476135,"[[1743.5703125, 665.53125]]",0.8246392011642456,"[791.0, 0.0, 1257.0, 916.0]"
+293,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",159,"[1133.0, 318.0, 12.0, 14.0]",0.4404357373714447,"[[1134.7109375, 322.03125]]",0.9570552110671997,"[791.0, 0.0, 1257.0, 916.0]"
+294,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",4486,"[1582.0, 105.0, 301.0, 93.0]",0.4303494989871979,"[[1586.4453125, 178.90625]]",0.9335347414016724,"[791.0, 0.0, 1257.0, 916.0]"
+295,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",4447,"[1500.0, 104.0, 442.0, 95.0]",0.419004887342453,"[[1586.4453125, 193.21875]]",0.8596276044845581,"[791.0, 0.0, 1257.0, 916.0]"
+296,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2436,"[1412.0, 323.0, 98.0, 97.0]",0.40691399574279785,"[[1409.6796875, 393.59375]]",0.8925361633300781,"[791.0, 0.0, 1257.0, 916.0]"
+297,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",44875,"[815.0, 142.0, 622.0, 278.0]",0.40301513671875,"[[1311.4765625, 221.84375]]",0.8309180736541748,"[791.0, 0.0, 1257.0, 916.0]"
+298,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10762,"[1200.0, 922.0, 148.0, 88.0]",0.9773038029670715,"[[1232.9140625, 943.78125]]",0.9742717742919922,"[791.0, 450.0, 1257.0, 916.0]"
+299,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",4436,"[1519.0, 1226.0, 145.0, 33.0]",0.9554545283317566,"[[1645.3671875, 1244.34375]]",0.9759946465492249,"[791.0, 450.0, 1257.0, 916.0]"
+300,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2777,"[1875.0, 860.0, 86.0, 64.0]",0.9473363161087036,"[[1900.6953125, 915.15625]]",0.9476825594902039,"[791.0, 450.0, 1257.0, 916.0]"
+301,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2057,"[1958.0, 899.0, 89.0, 26.0]",0.9453190565109253,"[[2038.1796875, 915.15625]]",0.9638267755508423,"[791.0, 450.0, 1257.0, 916.0]"
+302,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3032,"[1705.0, 997.0, 56.0, 95.0]",0.9423892498016357,"[[1723.9296875, 1058.28125]]",0.9732638001441956,"[791.0, 450.0, 1257.0, 916.0]"
+303,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3014,"[1667.0, 997.0, 94.0, 95.0]",0.9395914077758789,"[[1723.9296875, 1072.59375]]",0.9738048315048218,"[791.0, 450.0, 1257.0, 916.0]"
+304,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2955,"[1652.0, 996.0, 56.0, 95.0]",0.9348965287208557,"[[1684.6484375, 1058.28125]]",0.9739478826522827,"[791.0, 450.0, 1257.0, 916.0]"
+305,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5414,"[1570.0, 994.0, 81.0, 97.0]",0.9334193468093872,"[[1645.3671875, 1015.34375]]",0.9474533796310425,"[791.0, 450.0, 1257.0, 916.0]"
+306,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",815,"[1993.0, 1154.0, 54.0, 16.0]",0.9161953926086426,"[[2018.5390625, 1158.46875]]",0.9672726988792419,"[791.0, 450.0, 1257.0, 916.0]"
+307,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10742,"[1761.0, 839.0, 286.0, 63.0]",0.9108121395111084,"[[1920.3359375, 872.21875]]",0.9415695667266846,"[791.0, 450.0, 1257.0, 916.0]"
+308,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2157,"[1958.0, 870.0, 89.0, 55.0]",0.9080197811126709,"[[1998.8984375, 915.15625]]",0.9418604373931885,"[791.0, 450.0, 1257.0, 916.0]"
+309,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10685,"[1765.0, 795.0, 282.0, 107.0]",0.9069746732711792,"[[1979.2578125, 886.53125]]",0.9342591762542725,"[791.0, 450.0, 1257.0, 916.0]"
+310,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",11110,"[1613.0, 745.0, 434.0, 157.0]",0.9056417346000671,"[[2018.5390625, 886.53125]]",0.8586867451667786,"[791.0, 450.0, 1257.0, 916.0]"
+311,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6939,"[1751.0, 472.0, 296.0, 47.0]",0.9015692472457886,"[[1841.7734375, 485.78125]]",0.9361583590507507,"[791.0, 450.0, 1257.0, 916.0]"
+312,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",55163,"[985.0, 1188.0, 415.0, 177.0]",0.901127815246582,"[[1036.5078125, 1344.53125]]",0.9452143907546997,"[791.0, 450.0, 1257.0, 916.0]"
+313,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",33991,"[1345.0, 782.0, 529.0, 130.0]",0.8916819095611572,"[[1488.2421875, 800.65625]]",0.8626384735107422,"[791.0, 450.0, 1257.0, 916.0]"
+314,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2922,"[1938.0, 1253.0, 109.0, 28.0]",0.882116436958313,"[[1979.2578125, 1272.96875]]",0.9412740468978882,"[791.0, 450.0, 1257.0, 916.0]"
+315,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1232,"[1299.0, 857.0, 38.0, 44.0]",0.874451756477356,"[[1311.4765625, 872.21875]]",0.9423380494117737,"[791.0, 450.0, 1257.0, 916.0]"
+316,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2533,"[1875.0, 883.0, 83.0, 40.0]",0.8652986288070679,"[[1920.3359375, 886.53125]]",0.9665889739990234,"[791.0, 450.0, 1257.0, 916.0]"
+317,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",49376,"[1146.0, 708.0, 734.0, 206.0]",0.8572523593902588,"[[1625.7265625, 800.65625]]",0.9412808418273926,"[791.0, 450.0, 1257.0, 916.0]"
+318,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",8426,"[1174.0, 851.0, 200.0, 52.0]",0.8500528335571289,"[[1232.9140625, 872.21875]]",0.9342679977416992,"[791.0, 450.0, 1257.0, 916.0]"
+319,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1027,"[1230.0, 853.0, 36.0, 46.0]",0.8346533179283142,"[[1252.5546875, 857.90625]]",0.910681426525116,"[791.0, 450.0, 1257.0, 916.0]"
+320,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",25726,"[1819.0, 1006.0, 228.0, 121.0]",0.8299239277839661,"[[1939.9765625, 1015.34375]]",0.9637182950973511,"[791.0, 450.0, 1257.0, 916.0]"
+321,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3665,"[1966.0, 1133.0, 81.0, 72.0]",0.8232252597808838,"[[2038.1796875, 1187.09375]]",0.869361162185669,"[791.0, 450.0, 1257.0, 916.0]"
+322,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10868,"[1199.0, 860.0, 149.0, 150.0]",0.8216250538825989,"[[1272.1953125, 1001.03125]]",0.8535000681877136,"[791.0, 450.0, 1257.0, 916.0]"
+323,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",432,"[1888.0, 859.0, 74.0, 51.0]",0.8191943764686584,"[[1959.6171875, 857.90625]]",0.831250011920929,"[791.0, 450.0, 1257.0, 916.0]"
+324,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",701,"[1338.0, 860.0, 36.0, 43.0]",0.8140005469322205,"[[1350.7578125, 886.53125]]",0.9513888955116272,"[791.0, 450.0, 1257.0, 916.0]"
+325,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10647,"[1945.0, 1008.0, 102.0, 114.0]",0.813544750213623,"[[1959.6171875, 1072.59375]]",0.9126911759376526,"[791.0, 450.0, 1257.0, 916.0]"
+326,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",13377,"[1819.0, 1011.0, 132.0, 112.0]",0.799515962600708,"[[1920.3359375, 1029.65625]]",0.9537145495414734,"[791.0, 450.0, 1257.0, 916.0]"
+327,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5490,"[1569.0, 994.0, 128.0, 98.0]",0.7952877283096313,"[[1586.4453125, 1086.90625]]",0.939035177230835,"[791.0, 450.0, 1257.0, 916.0]"
+328,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1148,"[1265.0, 855.0, 37.0, 44.0]",0.789765477180481,"[[1291.8359375, 857.90625]]",0.9204639792442322,"[791.0, 450.0, 1257.0, 916.0]"
+329,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",362,"[2026.0, 1253.0, 21.0, 25.0]",0.781406044960022,"[[2038.1796875, 1258.65625]]",0.9230769276618958,"[791.0, 450.0, 1257.0, 916.0]"
+330,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",362,"[1949.0, 859.0, 13.0, 44.0]",0.7760324478149414,"[[1959.6171875, 872.21875]]",0.9281914830207825,"[791.0, 450.0, 1257.0, 916.0]"
+331,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",14430,"[1569.0, 993.0, 193.0, 100.0]",0.772119402885437,"[[1645.3671875, 1043.96875]]",0.8642210364341736,"[791.0, 450.0, 1257.0, 916.0]"
+332,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",118,"[2031.0, 1200.0, 16.0, 10.0]",0.7563111186027527,"[[2038.1796875, 1201.40625]]",0.9268292784690857,"[791.0, 450.0, 1257.0, 916.0]"
+333,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5352,"[1574.0, 480.0, 61.0, 90.0]",0.7227804064750671,"[[1625.7265625, 485.78125]]",0.9571506977081299,"[791.0, 450.0, 1257.0, 916.0]"
+334,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2307,"[1878.0, 865.0, 169.0, 60.0]",0.7197193503379822,"[[1979.2578125, 915.15625]]",0.8584492802619934,"[791.0, 450.0, 1257.0, 916.0]"
+335,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",37572,"[1273.0, 741.0, 602.0, 171.0]",0.7147523164749146,"[[1547.1640625, 872.21875]]",0.8253637552261353,"[791.0, 450.0, 1257.0, 916.0]"
+336,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",35308,"[1344.0, 781.0, 531.0, 307.0]",0.6913195252418518,"[[1370.3984375, 800.65625]]",0.9140306115150452,"[791.0, 450.0, 1257.0, 916.0]"
+337,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7976,"[1614.0, 541.0, 96.0, 279.0]",0.6761563420295715,"[[1704.2890625, 814.96875]]",0.9541676640510559,"[791.0, 450.0, 1257.0, 916.0]"
+338,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6779,"[1750.0, 729.0, 297.0, 38.0]",0.6703877449035645,"[[1782.8515625, 743.40625]]",0.9395455121994019,"[791.0, 450.0, 1257.0, 916.0]"
+339,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6162,"[1571.0, 614.0, 373.0, 105.0]",0.6702320575714111,"[[1606.0859375, 657.53125]]",0.9346982836723328,"[791.0, 450.0, 1257.0, 916.0]"
+340,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",48684,"[1156.0, 712.0, 723.0, 376.0]",0.665908694267273,"[[1409.6796875, 800.65625]]",0.848045825958252,"[791.0, 450.0, 1257.0, 916.0]"
+341,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",8840,"[1091.0, 1301.0, 194.0, 64.0]",0.6575099229812622,"[[1134.7109375, 1330.21875]]",0.9431253671646118,"[791.0, 450.0, 1257.0, 916.0]"
+342,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",901,"[1939.0, 1254.0, 39.0, 26.0]",0.6462257504463196,"[[1959.6171875, 1258.65625]]",0.961915135383606,"[791.0, 450.0, 1257.0, 916.0]"
+343,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5540,"[1934.0, 926.0, 113.0, 51.0]",0.6431522369384766,"[[2038.1796875, 943.78125]]",0.9547694325447083,"[791.0, 450.0, 1257.0, 916.0]"
+344,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",611,"[1612.0, 686.0, 21.0, 34.0]",0.639325737953186,"[[1625.7265625, 700.46875]]",0.928909957408905,"[791.0, 450.0, 1257.0, 916.0]"
+345,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7016,"[1622.0, 473.0, 425.0, 48.0]",0.6165271401405334,"[[1900.6953125, 485.78125]]",0.8923240900039673,"[791.0, 450.0, 1257.0, 916.0]"
+346,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",33747,"[1800.0, 932.0, 247.0, 205.0]",0.5828549265861511,"[[1998.8984375, 1129.84375]]",0.8106104731559753,"[791.0, 450.0, 1257.0, 916.0]"
+347,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",538,"[1510.0, 739.0, 25.0, 30.0]",0.5778490900993347,"[[1527.5234375, 757.71875]]",0.909584105014801,"[791.0, 450.0, 1257.0, 916.0]"
+348,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",888,"[1499.0, 734.0, 35.0, 34.0]",0.5751649141311646,"[[1507.8828125, 743.40625]]",0.8349307775497437,"[791.0, 450.0, 1257.0, 916.0]"
+349,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",15570,"[1304.0, 573.0, 743.0, 78.0]",0.5723481178283691,"[[1959.6171875, 628.90625]]",0.8887683153152466,"[791.0, 450.0, 1257.0, 916.0]"
+350,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6253,"[1572.0, 614.0, 380.0, 163.0]",0.5298292636871338,"[[1625.7265625, 614.59375]]",0.8574650883674622,"[791.0, 450.0, 1257.0, 916.0]"
+351,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2254,"[1570.0, 740.0, 51.0, 51.0]",0.49495476484298706,"[[1606.0859375, 786.34375]]",0.9473457336425781,"[791.0, 450.0, 1257.0, 916.0]"
+352,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1226696,"[0.0, 615.0, 2047.0, 750.0]",0.9942849278450012,"[[1584.0, 992.484375]]",0.9809349179267883,"[0.0, 0.0, 2048.0, 1366.0]"
+353,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",28647,"[62.0, 657.0, 576.0, 113.0]",0.981065571308136,"[[272.0, 757.703125]]",0.9475394487380981,"[0.0, 0.0, 2048.0, 1366.0]"
+354,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",70787,"[430.0, 250.0, 382.0, 355.0]",0.9767693877220154,"[[464.0, 266.796875]]",0.979624330997467,"[0.0, 0.0, 2048.0, 1366.0]"
+355,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",27805,"[62.0, 658.0, 567.0, 284.0]",0.9759374856948853,"[[208.0, 672.328125]]",0.953188955783844,"[0.0, 0.0, 2048.0, 1366.0]"
+356,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1193596,"[0.0, 0.0, 2047.0, 950.0]",0.9726951122283936,"[[1136.0, 288.140625]]",0.8187314867973328,"[0.0, 0.0, 2048.0, 1366.0]"
+357,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",46062,"[131.0, 541.0, 673.0, 222.0]",0.9671617746353149,"[[720.0, 586.953125]]",0.9565171599388123,"[0.0, 0.0, 2048.0, 1366.0]"
+358,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",47460,"[809.0, 139.0, 622.0, 172.0]",0.9643523693084717,"[[1136.0, 181.421875]]",0.9503459930419922,"[0.0, 0.0, 2048.0, 1366.0]"
+359,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",27061,"[801.0, 397.0, 660.0, 182.0]",0.963967502117157,"[[1072.0, 501.578125]]",0.9612170457839966,"[0.0, 0.0, 2048.0, 1366.0]"
+360,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10764,"[48.0, 820.0, 229.0, 133.0]",0.9633845090866089,"[[144.0, 864.421875]]",0.9544175267219543,"[0.0, 0.0, 2048.0, 1366.0]"
+361,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",29354,"[9.0, 610.0, 699.0, 160.0]",0.9621561169624329,"[[176.0, 757.703125]]",0.8865537047386169,"[0.0, 0.0, 2048.0, 1366.0]"
+362,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7386,"[571.0, 1203.0, 174.0, 95.0]",0.9591911435127258,"[[720.0, 1269.953125]]",0.9599893689155579,"[0.0, 0.0, 2048.0, 1366.0]"
+363,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",47011,"[1548.0, 0.0, 159.0, 818.0]",0.9583004117012024,"[[1648.0, 181.421875]]",0.9478622674942017,"[0.0, 0.0, 2048.0, 1366.0]"
+364,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",24766,"[1603.0, 240.0, 444.0, 214.0]",0.9557192921638489,"[[1936.0, 266.796875]]",0.9738874435424805,"[0.0, 0.0, 2048.0, 1366.0]"
+365,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",24624,"[1753.0, 241.0, 294.0, 210.0]",0.9539514183998108,"[[1968.0, 266.796875]]",0.9753343462944031,"[0.0, 0.0, 2048.0, 1366.0]"
+366,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",28363,"[1577.0, 412.0, 470.0, 189.0]",0.95163893699646,"[[1968.0, 586.953125]]",0.9482390880584717,"[0.0, 0.0, 2048.0, 1366.0]"
+367,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",56864,"[666.0, 732.0, 449.0, 203.0]",0.9493140578269958,"[[784.0, 757.703125]]",0.8584096431732178,"[0.0, 0.0, 2048.0, 1366.0]"
+368,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",14915,"[1698.0, 253.0, 349.0, 150.0]",0.9464892148971558,"[[1776.0, 352.171875]]",0.9612001180648804,"[0.0, 0.0, 2048.0, 1366.0]"
+369,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1509,"[209.0, 1114.0, 45.0, 38.0]",0.9462737441062927,"[[240.0, 1120.546875]]",0.9662118554115295,"[0.0, 0.0, 2048.0, 1366.0]"
+370,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",21806,"[0.0, 951.0, 547.0, 411.0]",0.9453133940696716,"[[16.0, 1163.234375]]",0.8053591251373291,"[0.0, 0.0, 2048.0, 1366.0]"
+371,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",14906,"[1698.0, 87.0, 349.0, 316.0]",0.9425315260887146,"[[1808.0, 373.515625]]",0.9554930925369263,"[0.0, 0.0, 2048.0, 1366.0]"
+372,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",22192,"[707.0, 614.0, 560.0, 92.0]",0.9401383399963379,"[[1168.0, 693.671875]]",0.8927336931228638,"[0.0, 0.0, 2048.0, 1366.0]"
+373,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",26401,"[818.0, 288.0, 612.0, 200.0]",0.9390130043029785,"[[848.0, 330.828125]]",0.9350981712341309,"[0.0, 0.0, 2048.0, 1366.0]"
+374,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",20053,"[1250.0, 452.0, 379.0, 104.0]",0.9345607757568359,"[[1264.0, 501.578125]]",0.9664005637168884,"[0.0, 0.0, 2048.0, 1366.0]"
+375,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",26993,"[1586.0, 224.0, 461.0, 175.0]",0.9339463710784912,"[[1776.0, 288.140625]]",0.8441440463066101,"[0.0, 0.0, 2048.0, 1366.0]"
+376,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1507,"[188.0, 1113.0, 66.0, 148.0]",0.9320797920227051,"[[208.0, 1141.890625]]",0.9585492014884949,"[0.0, 0.0, 2048.0, 1366.0]"
+377,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",4886,"[1203.0, 0.0, 641.0, 51.0]",0.9301842451095581,"[[1424.0, 10.671875]]",0.908618688583374,"[0.0, 0.0, 2048.0, 1366.0]"
+378,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",701,"[426.0, 1196.0, 24.0, 32.0]",0.9257372617721558,"[[432.0, 1205.921875]]",0.9636363387107849,"[0.0, 0.0, 2048.0, 1366.0]"
+379,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7271,"[801.0, 390.0, 503.0, 68.0]",0.9247012734413147,"[[944.0, 416.203125]]",0.9212774634361267,"[0.0, 0.0, 2048.0, 1366.0]"
+380,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1417,"[352.0, 1118.0, 47.0, 39.0]",0.9243268370628357,"[[368.0, 1141.890625]]",0.9648033380508423,"[0.0, 0.0, 2048.0, 1366.0]"
+381,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",4942,"[1202.0, 0.0, 428.0, 50.0]",0.9241477251052856,"[[1360.0, 10.671875]]",0.9139516949653625,"[0.0, 0.0, 2048.0, 1366.0]"
+382,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",32151,"[1577.0, 113.0, 470.0, 609.0]",0.9199329018592834,"[[1616.0, 416.203125]]",0.9615068435668945,"[0.0, 0.0, 2048.0, 1366.0]"
+383,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",27447,"[1750.0, 633.0, 297.0, 191.0]",0.9187878966331482,"[[1776.0, 650.984375]]",0.9675557613372803,"[0.0, 0.0, 2048.0, 1366.0]"
+384,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",29368,"[842.0, 105.0, 1205.0, 142.0]",0.9174056053161621,"[[1840.0, 224.109375]]",0.9339940547943115,"[0.0, 0.0, 2048.0, 1366.0]"
+385,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7473,"[1517.0, 263.0, 121.0, 198.0]",0.9170578718185425,"[[1584.0, 288.140625]]",0.9387226104736328,"[0.0, 0.0, 2048.0, 1366.0]"
+386,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",4513,"[1269.0, 699.0, 203.0, 36.0]",0.9166050553321838,"[[1456.0, 715.015625]]",0.9469026327133179,"[0.0, 0.0, 2048.0, 1366.0]"
+387,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",32176,"[1577.0, 357.0, 470.0, 365.0]",0.9129863381385803,"[[1616.0, 394.859375]]",0.9611073732376099,"[0.0, 0.0, 2048.0, 1366.0]"
+388,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",706,"[1985.0, 1254.0, 31.0, 25.0]",0.9108010530471802,"[[2000.0, 1269.953125]]",0.9832167625427246,"[0.0, 0.0, 2048.0, 1366.0]"
+389,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",11251,"[0.0, 157.0, 374.0, 315.0]",0.9092218279838562,"[[304.0, 352.171875]]",0.910595178604126,"[0.0, 0.0, 2048.0, 1366.0]"
+390,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",69705,"[68.0, 252.0, 676.0, 250.0]",0.8976439237594604,"[[688.0, 501.578125]]",0.9674177169799805,"[0.0, 0.0, 2048.0, 1366.0]"
+391,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7745,"[1751.0, 216.0, 296.0, 181.0]",0.895624041557312,"[[1776.0, 224.109375]]",0.8663153052330017,"[0.0, 0.0, 2048.0, 1366.0]"
+392,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",31396,"[1254.0, 408.0, 793.0, 320.0]",0.8932850956916809,"[[1616.0, 501.578125]]",0.8388966917991638,"[0.0, 0.0, 2048.0, 1366.0]"
+393,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",11799,"[1198.0, 923.0, 311.0, 104.0]",0.8912498950958252,"[[1264.0, 1013.828125]]",0.861396074295044,"[0.0, 0.0, 2048.0, 1366.0]"
+394,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",37834,"[820.0, 289.0, 809.0, 163.0]",0.8892581462860107,"[[1328.0, 394.859375]]",0.9144592881202698,"[0.0, 0.0, 2048.0, 1366.0]"
+395,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2819,"[1225.0, 289.0, 51.0, 100.0]",0.888378381729126,"[[1264.0, 309.484375]]",0.9277190566062927,"[0.0, 0.0, 2048.0, 1366.0]"
+396,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",14795,"[1449.0, 428.0, 524.0, 327.0]",0.8758233189582825,"[[1488.0, 501.578125]]",0.8783817887306213,"[0.0, 0.0, 2048.0, 1366.0]"
+397,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",31216,"[1256.0, 392.0, 791.0, 209.0]",0.8732892870903015,"[[2032.0, 586.953125]]",0.8799015283584595,"[0.0, 0.0, 2048.0, 1366.0]"
+398,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5372,"[1265.0, 699.0, 339.0, 56.0]",0.8729925155639648,"[[1296.0, 715.015625]]",0.8956968188285828,"[0.0, 0.0, 2048.0, 1366.0]"
+399,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1083,"[1370.0, 306.0, 26.0, 83.0]",0.8696709871292114,"[[1392.0, 309.484375]]",0.9077328443527222,"[0.0, 0.0, 2048.0, 1366.0]"
+400,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1440,"[315.0, 1118.0, 84.0, 39.0]",0.8693450689315796,"[[368.0, 1120.546875]]",0.9421265125274658,"[0.0, 0.0, 2048.0, 1366.0]"
+401,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",34014,"[819.0, 576.0, 1228.0, 232.0]",0.8648091554641724,"[[2032.0, 672.328125]]",0.8861116170883179,"[0.0, 0.0, 2048.0, 1366.0]"
+402,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1785,"[408.0, 1120.0, 48.0, 42.0]",0.858894944190979,"[[432.0, 1141.890625]]",0.9708150029182434,"[0.0, 0.0, 2048.0, 1366.0]"
+403,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1232,"[717.0, 681.0, 54.0, 30.0]",0.857706606388092,"[[752.0, 693.671875]]",0.92476487159729,"[0.0, 0.0, 2048.0, 1366.0]"
+404,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",37110,"[821.0, 289.0, 809.0, 348.0]",0.8572695255279541,"[[1168.0, 330.828125]]",0.8847856521606445,"[0.0, 0.0, 2048.0, 1366.0]"
+405,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",420,"[1573.0, 436.0, 17.0, 27.0]",0.8564636707305908,"[[1584.0, 437.546875]]",0.9399538040161133,"[0.0, 0.0, 2048.0, 1366.0]"
+406,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",416,"[1524.0, 437.0, 66.0, 26.0]",0.850852906703949,"[[1584.0, 458.890625]]",0.9418604373931885,"[0.0, 0.0, 2048.0, 1366.0]"
+407,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",18332,"[1419.0, 203.0, 153.0, 223.0]",0.8497369289398193,"[[1456.0, 202.765625]]",0.8444854617118835,"[0.0, 0.0, 2048.0, 1366.0]"
+408,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",17131,"[1576.0, 520.0, 471.0, 131.0]",0.8490046858787537,"[[1968.0, 629.640625]]",0.9457157254219055,"[0.0, 0.0, 2048.0, 1366.0]"
+409,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",5420,"[1027.0, 311.0, 89.0, 156.0]",0.8480842113494873,"[[1072.0, 416.203125]]",0.8195315003395081,"[0.0, 0.0, 2048.0, 1366.0]"
+410,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",797,"[489.0, 1186.0, 28.0, 33.0]",0.8455474972724915,"[[496.0, 1205.921875]]",0.9381818175315857,"[0.0, 0.0, 2048.0, 1366.0]"
+411,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1315,"[1479.0, 173.0, 100.0, 32.0]",0.844687283039093,"[[1488.0, 181.421875]]",0.9518518447875977,"[0.0, 0.0, 2048.0, 1366.0]"
+412,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1052,"[1180.0, 852.0, 53.0, 47.0]",0.8390146493911743,"[[1232.0, 864.421875]]",0.9553072452545166,"[0.0, 0.0, 2048.0, 1366.0]"
+413,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",246426,"[37.0, 729.0, 659.0, 636.0]",0.8382580280303955,"[[368.0, 1312.640625]]",0.818723738193512,"[0.0, 0.0, 2048.0, 1366.0]"
+414,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",13835,"[1168.0, 1047.0, 404.0, 75.0]",0.8349194526672363,"[[1424.0, 1077.859375]]",0.9550982713699341,"[0.0, 0.0, 2048.0, 1366.0]"
+415,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",20067,"[747.0, 480.0, 1300.0, 266.0]",0.8312408328056335,"[[2032.0, 629.640625]]",0.81343674659729,"[0.0, 0.0, 2048.0, 1366.0]"
+416,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3091,"[1069.0, 656.0, 160.0, 41.0]",0.812353253364563,"[[1104.0, 672.328125]]",0.9444792866706848,"[0.0, 0.0, 2048.0, 1366.0]"
+417,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6662,"[1492.0, 418.0, 48.0, 348.0]",0.8091452717781067,"[[1520.0, 693.671875]]",0.8698225021362305,"[0.0, 0.0, 2048.0, 1366.0]"
+418,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",16904,"[809.0, 111.0, 659.0, 91.0]",0.808480441570282,"[[1136.0, 160.078125]]",0.9208290576934814,"[0.0, 0.0, 2048.0, 1366.0]"
+419,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",9409,"[1339.0, 477.0, 179.0, 279.0]",0.8027181029319763,"[[1456.0, 629.640625]]",0.8237677216529846,"[0.0, 0.0, 2048.0, 1366.0]"
+420,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7746,"[1515.0, 189.0, 123.0, 212.0]",0.7981426119804382,"[[1520.0, 394.859375]]",0.9299378991127014,"[0.0, 0.0, 2048.0, 1366.0]"
+421,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",44847,"[0.0, 295.0, 669.0, 199.0]",0.7974894642829895,"[[80.0, 437.546875]]",0.8235505819320679,"[0.0, 0.0, 2048.0, 1366.0]"
+422,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",42812,"[0.0, 0.0, 2047.0, 155.0]",0.7848084568977356,"[[1424.0, 53.359375]]",0.8973913788795471,"[0.0, 0.0, 2048.0, 1366.0]"
+423,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",616,"[1489.0, 464.0, 35.0, 87.0]",0.7571525573730469,"[[1488.0, 544.265625]]",0.8556700944900513,"[0.0, 0.0, 2048.0, 1366.0]"
+424,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3382,"[41.0, 1196.0, 149.0, 65.0]",0.7560604214668274,"[[176.0, 1205.921875]]",0.9283480048179626,"[0.0, 0.0, 2048.0, 1366.0]"
+425,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",319,"[300.0, 1137.0, 17.0, 28.0]",0.748116672039032,"[[304.0, 1141.890625]]",0.9246987700462341,"[0.0, 0.0, 2048.0, 1366.0]"
+426,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",555,"[462.0, 1122.0, 21.0, 42.0]",0.73525071144104,"[[464.0, 1141.890625]]",0.9090909361839294,"[0.0, 0.0, 2048.0, 1366.0]"
+427,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1325,"[260.0, 1115.0, 43.0, 40.0]",0.7325228452682495,"[[272.0, 1141.890625]]",0.9493019580841064,"[0.0, 0.0, 2048.0, 1366.0]"
+428,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",13265,"[1136.0, 705.0, 398.0, 77.0]",0.7310160994529724,"[[1456.0, 757.703125]]",0.9389647245407104,"[0.0, 0.0, 2048.0, 1366.0]"
+429,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",14008,"[1167.0, 968.0, 405.0, 155.0]",0.7308476567268372,"[[1296.0, 1099.203125]]",0.9373235106468201,"[0.0, 0.0, 2048.0, 1366.0]"
+430,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",193503,"[36.0, 946.0, 912.0, 416.0]",0.7275371551513672,"[[432.0, 1099.203125]]",0.9421640038490295,"[0.0, 0.0, 2048.0, 1366.0]"
+431,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",8222,"[1479.0, 332.0, 568.0, 187.0]",0.7232097387313843,"[[1936.0, 501.578125]]",0.8783599138259888,"[0.0, 0.0, 2048.0, 1366.0]"
+432,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",32589,"[1578.0, 362.0, 469.0, 217.0]",0.7061793208122253,"[[1616.0, 458.890625]]",0.9237666726112366,"[0.0, 0.0, 2048.0, 1366.0]"
+433,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",36027,"[1530.0, 240.0, 517.0, 333.0]",0.702833890914917,"[[2032.0, 288.140625]]",0.8483591675758362,"[0.0, 0.0, 2048.0, 1366.0]"
+434,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",44755,"[801.0, 417.0, 827.0, 178.0]",0.6944078207015991,"[[1008.0, 437.546875]]",0.8385592699050903,"[0.0, 0.0, 2048.0, 1366.0]"
+435,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",489,"[281.0, 1217.0, 23.0, 31.0]",0.6898080706596375,"[[304.0, 1227.265625]]",0.9211045503616333,"[0.0, 0.0, 2048.0, 1366.0]"
+436,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",46565,"[801.0, 402.0, 1246.0, 178.0]",0.689250648021698,"[[816.0, 501.578125]]",0.8558195233345032,"[0.0, 0.0, 2048.0, 1366.0]"
+437,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",17490,"[67.0, 103.0, 1399.0, 130.0]",0.6846848130226135,"[[1232.0, 160.078125]]",0.8506683111190796,"[0.0, 0.0, 2048.0, 1366.0]"
+438,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7037,"[1156.0, 0.0, 880.0, 82.0]",0.6791559457778931,"[[1616.0, 32.015625]]",0.907227635383606,"[0.0, 0.0, 2048.0, 1366.0]"
+439,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",42953,"[0.0, 349.0, 1086.0, 214.0]",0.6772593259811401,"[[336.0, 501.578125]]",0.822046160697937,"[0.0, 0.0, 2048.0, 1366.0]"
+440,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",45324,"[801.0, 417.0, 1235.0, 220.0]",0.6754711866378784,"[[880.0, 437.546875]]",0.8342443704605103,"[0.0, 0.0, 2048.0, 1366.0]"
+441,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",20686,"[18.0, 87.0, 699.0, 183.0]",0.6717445850372314,"[[80.0, 181.421875]]",0.8297175168991089,"[0.0, 0.0, 2048.0, 1366.0]"
+442,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",16271,"[743.0, 279.0, 61.0, 332.0]",0.669339656829834,"[[752.0, 544.265625]]",0.8217479586601257,"[0.0, 0.0, 2048.0, 1366.0]"
+443,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",13585,"[1131.0, 704.0, 649.0, 157.0]",0.6593689918518066,"[[1232.0, 715.015625]]",0.9100292921066284,"[0.0, 0.0, 2048.0, 1366.0]"
+444,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1261,"[1235.0, 855.0, 66.0, 45.0]",0.6571500897407532,"[[1264.0, 885.765625]]",0.8676035404205322,"[0.0, 0.0, 2048.0, 1366.0]"
+445,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10792,"[1218.0, 294.0, 42.0, 387.0]",0.6512145400047302,"[[1232.0, 394.859375]]",0.8748689293861389,"[0.0, 0.0, 2048.0, 1366.0]"
+446,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",12226,"[364.0, 0.0, 80.0, 243.0]",0.644967794418335,"[[432.0, 181.421875]]",0.9298785328865051,"[0.0, 0.0, 2048.0, 1366.0]"
+447,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",3408,"[42.0, 1196.0, 148.0, 36.0]",0.6445379853248596,"[[144.0, 1205.921875]]",0.9424276947975159,"[0.0, 0.0, 2048.0, 1366.0]"
+448,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1943,"[578.0, 771.0, 86.0, 64.0]",0.6371432542800903,"[[624.0, 779.046875]]",0.9050416350364685,"[0.0, 0.0, 2048.0, 1366.0]"
+449,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",19595,"[0.0, 86.0, 380.0, 152.0]",0.6367585062980652,"[[336.0, 224.109375]]",0.8892015218734741,"[0.0, 0.0, 2048.0, 1366.0]"
+450,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2521,"[515.0, 808.0, 98.0, 133.0]",0.6307831406593323,"[[528.0, 928.453125]]",0.9391037821769714,"[0.0, 0.0, 2048.0, 1366.0]"
+451,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",255131,"[0.0, 728.0, 948.0, 634.0]",0.6236339211463928,"[[464.0, 1099.203125]]",0.8109328746795654,"[0.0, 0.0, 2048.0, 1366.0]"
+452,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",9186,"[1171.0, 850.0, 618.0, 55.0]",0.6190207004547119,"[[1232.0, 885.765625]]",0.9394098520278931,"[0.0, 0.0, 2048.0, 1366.0]"
+453,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",40327,"[0.0, 157.0, 1084.0, 402.0]",0.6161178946495056,"[[720.0, 522.921875]]",0.8825646042823792,"[0.0, 0.0, 2048.0, 1366.0]"
+454,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",47998,"[67.0, 429.0, 1980.0, 174.0]",0.6131643056869507,"[[1808.0, 501.578125]]",0.8244818449020386,"[0.0, 0.0, 2048.0, 1366.0]"
+455,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",20974,"[1534.0, 161.0, 101.0, 607.0]",0.589413046836853,"[[1584.0, 202.765625]]",0.8240302801132202,"[0.0, 0.0, 2048.0, 1366.0]"
+456,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1354,"[458.0, 1112.0, 51.0, 60.0]",0.5830679535865784,"[[464.0, 1163.234375]]",0.8050565719604492,"[0.0, 0.0, 2048.0, 1366.0]"
+457,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6090,"[1572.0, 408.0, 62.0, 311.0]",0.5808863639831543,"[[1616.0, 715.015625]]",0.9379820823669434,"[0.0, 0.0, 2048.0, 1366.0]"
+458,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2147,"[1528.0, 224.0, 510.0, 69.0]",0.5773958563804626,"[[1616.0, 245.453125]]",0.8285476565361023,"[0.0, 0.0, 2048.0, 1366.0]"
+459,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",87887,"[1555.0, 0.0, 209.0, 831.0]",0.5771803855895996,"[[1712.0, 373.515625]]",0.8575863242149353,"[0.0, 0.0, 2048.0, 1366.0]"
+460,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",10570,"[0.0, 951.0, 117.0, 201.0]",0.5719796419143677,"[[16.0, 971.140625]]",0.8556159138679504,"[0.0, 0.0, 2048.0, 1366.0]"
+461,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2100,"[1486.0, 680.0, 33.0, 83.0]",0.5698760747909546,"[[1488.0, 736.359375]]",0.8904418349266052,"[0.0, 0.0, 2048.0, 1366.0]"
+462,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",16601,"[744.0, 419.0, 700.0, 192.0]",0.5638469457626343,"[[1040.0, 565.609375]]",0.8869868516921997,"[0.0, 0.0, 2048.0, 1366.0]"
+463,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",78632,"[0.0, 211.0, 353.0, 745.0]",0.5586296916007996,"[[176.0, 245.453125]]",0.8480877876281738,"[0.0, 0.0, 2048.0, 1366.0]"
+464,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",283062,"[0.0, 690.0, 1467.0, 671.0]",0.5550855398178101,"[[272.0, 907.109375]]",0.8377394080162048,"[0.0, 0.0, 2048.0, 1366.0]"
+465,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",6663,"[1155.0, 962.0, 371.0, 112.0]",0.5499284863471985,"[[1392.0, 971.140625]]",0.8848255276679993,"[0.0, 0.0, 2048.0, 1366.0]"
+466,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",283346,"[520.0, 718.0, 636.0, 644.0]",0.5472294092178345,"[[1040.0, 949.796875]]",0.9131870269775391,"[0.0, 0.0, 2048.0, 1366.0]"
+467,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",8718,"[1393.0, 476.0, 125.0, 280.0]",0.5463736057281494,"[[1488.0, 650.984375]]",0.814944326877594,"[0.0, 0.0, 2048.0, 1366.0]"
+468,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",9161,"[1933.0, 925.0, 114.0, 139.0]",0.5427486300468445,"[[1936.0, 949.796875]]",0.8347554206848145,"[0.0, 0.0, 2048.0, 1366.0]"
+469,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",74274,"[0.0, 0.0, 357.0, 642.0]",0.5359448194503784,"[[208.0, 629.640625]]",0.8291869163513184,"[0.0, 0.0, 2048.0, 1366.0]"
+470,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",1225,"[1938.0, 1253.0, 79.0, 27.0]",0.5007642507553101,"[[1968.0, 1248.609375]]",0.8466120362281799,"[0.0, 0.0, 2048.0, 1366.0]"
+471,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",16541,"[741.0, 424.0, 356.0, 188.0]",0.4776570200920105,"[[1040.0, 544.265625]]",0.898335337638855,"[0.0, 0.0, 2048.0, 1366.0]"
+472,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",7213,"[1522.0, 219.0, 525.0, 52.0]",0.4675046503543854,"[[2032.0, 266.796875]]",0.9015251398086548,"[0.0, 0.0, 2048.0, 1366.0]"
+473,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",8803,"[1475.0, 333.0, 572.0, 293.0]",0.46711552143096924,"[[1808.0, 480.234375]]",0.8133319616317749,"[0.0, 0.0, 2048.0, 1366.0]"
+474,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",47756,"[692.0, 66.0, 744.0, 475.0]",0.4634888768196106,"[[1424.0, 202.765625]]",0.8225873112678528,"[0.0, 0.0, 2048.0, 1366.0]"
+475,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",46272,"[67.0, 418.0, 1969.0, 141.0]",0.45948147773742676,"[[1392.0, 522.921875]]",0.8964110612869263,"[0.0, 0.0, 2048.0, 1366.0]"
+476,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",17151,"[260.0, 787.0, 361.0, 159.0]",0.44750821590423584,"[[432.0, 843.078125]]",0.8266339302062988,"[0.0, 0.0, 2048.0, 1366.0]"
+477,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",43675,"[1311.0, 0.0, 285.0, 426.0]",0.44299545884132385,"[[1456.0, 330.828125]]",0.8131822347640991,"[0.0, 0.0, 2048.0, 1366.0]"
+478,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2273,"[1472.0, 680.0, 47.0, 76.0]",0.4369841516017914,"[[1488.0, 693.671875]]",0.8289003372192383,"[0.0, 0.0, 2048.0, 1366.0]"
+479,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",8549,"[707.0, 613.0, 346.0, 67.0]",0.4342786371707916,"[[816.0, 650.984375]]",0.8559872508049011,"[0.0, 0.0, 2048.0, 1366.0]"
+480,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",2911,"[717.0, 660.0, 212.0, 23.0]",0.41498541831970215,"[[816.0, 672.328125]]",0.885352373123169,"[0.0, 0.0, 2048.0, 1366.0]"
